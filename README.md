@@ -12,7 +12,8 @@
 9. [Customer Experience](#customer-experience)
 10. [Awards & Recognition](#awards--recognition)
 11. [Company Leadership & Team](#company-leadership--team)
-12. [Contact Information](#contact-information)
+12. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+13. [Contact Information](#contact-information)
 
 ---
 
@@ -1353,5 +1354,4 @@ No problem! Feel free to email us at hello@readyassist.in and we'll be happy to 
 ---
 
 *This README contains comprehensive information about ReadyAssist services, extracted from official company documentation. For the most current information, please visit www.readyassist.in or contact the company directly.*
-
 **Source**: Official ReadyAssist documentation and website content
