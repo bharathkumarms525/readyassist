@@ -49,7 +49,7 @@ ReadyAssist is India's leading technology-backed roadside assistance and vehicle
 ### 1. Roadside Assistance (RSA)
 **24/7 Emergency Support Services:**
 
-ReadyAssist provides comprehensive roadside assistance across 19,100+ pincodes covering 700+ districts in India. Our 24/7 emergency support services are powered by a deep-tech platform and driven by a Pan-India network of more than 10,000+ skilled and groomed mechanics, ensuring reliability and quality without compromising on speed.
+ReadyAssist provides comprehensive roadside assistance across 19,100+ pincodes covering 700+ districts in India. Our 24/7 emergency support services are powered by a deep-tech platform and driven by a Pan-India network of more than 11,000+ skilled and groomed mechanics, ensuring reliability and quality without compromising on speed.
 
 #### Towing Services
 **Professional Vehicle Recovery and Transportation**
