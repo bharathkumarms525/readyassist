@@ -221,7 +221,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/vehicle-info' \
   }
 }
 ```
-> ⚠️ **Action**: Redirect to **Vehicle Registration Flow (Section 2.1)**
+> ⚠️ **Action**: Store is_subscribed = false, Redirect to **Vehicle Registration Flow (Section 2.1)**
 
 ##### ❌ Case 3: **Registered but Not Subscribed**
 ```json
@@ -1136,5 +1136,6 @@ Every API, response, edge case, decision tree, and UX prompt has been meticulous
 ---
 
 ✅ **DOCUMENT COMPLETE. READY FOR DEVELOPMENT & QA.**
+
 
 
