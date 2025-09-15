@@ -24,6 +24,71 @@ All data is derived from live system responses and real-world use cases.
 
 ---
 
+## 🔄 **Complete Workflow Diagram**
+
+```
+graph TD
+    A[Start: Greeting] --> B[Ask Mobile Number]
+    B --> C[Validate Customer Status<br/>cx-status API]
+    C --> D{Customer Status}
+    D -->|New Customer| E[Greet & Show Menu:<br/>Book Service / Purchase Subscription / Customer Service]
+    D -->|Subscribed| F[Fetch Subscription Details<br/>ongoing-cx-details API<br/>Show Menu: Book Service / Purchase Subscription / Customer Service]
+    D -->|Ongoing Order| G[Fetch Order Details<br/>ongoing-cx-details API<br/>Show Menu: Track Order / Book Service / Purchase Subscription / Customer Support / Change Location]
+    
+    E --> H{User Action}
+    F --> H
+    G --> I{User Action}
+    
+    H -->|Book Service| J[Ask Vehicle Registration Number]
+    H -->|Purchase Subscription| K[Ask Vehicle Registration Number]
+    I -->|Track Order| L[Show Tracking Details<br/>ongoing-cx-details API]
+    I -->|Book Service| J
+    I -->|Purchase Subscription| K
+    I -->|Change Location| M[Ask New Location]
+    
+    J --> N[Check Vehicle Status<br/>vehicle-info API]
+    K --> N
+    
+    N --> O{Vehicle Status}
+    O -->|Subscribed| P[Ask Location]
+    O -->|Registered| P
+    O -->|Unregistered| Q[Vehicle Registration Flow:<br/>Ask Type → Ask Model → Search Vehicles → Confirm Selection → Register Vehicle]
+    
+    Q --> P
+    
+    M --> R[Refresh Service/Plan List with New Location]
+    
+    P --> S{Flow Type}
+    S -->|Order Flow| T[Fetch Available Services<br/>service-list API]
+    S -->|Subscription Flow| U[Fetch Subscription Plans<br/>plan-list API]
+    
+    T --> V{Service Category}
+    V -->|Towing| W[Ask Drop-off Location]
+    V -->|RSA| X[Fetch Available Dates<br/>get-dates API]
+    
+    W --> X
+    
+    X --> Y[Fetch Time Slots<br/>booking-slots API]
+    Y --> Z[Show Order Summary]
+    Z --> AA[Create Order<br/>create-order API]
+    AA --> AB[Send WhatsApp Payment Link]
+    AB --> AC[Ask Feedback]
+    
+    U --> AD[Show Plan Details<br/>plan-details API]
+    AD --> AE{User Decision}
+    AE -->|Choose Another Plan| U
+    AE -->|Buy Now| AF[Get Subscription Summary<br/>get-sub-summary API]
+    AF --> AG[Create Subscription<br/>create-subscription API]
+    AG --> AH[Send SMS Payment Link]
+    AH --> AC
+    
+    AC --> AI[End]
+    
+    L --> AI
+    R --> AI
+```
+
+
 # 🔢 **PART 1: CUSTOMER IDENTIFICATION & STATUS CHECK**
 
 ### 📍 **Step 1: Ask Mobile Number**
@@ -599,7 +664,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/create-order' \
 
 > Use same API as in Order Flow:
 
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/vehicle-info' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -633,7 +698,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/vehicle-info' \
 ### 📍 **Step 4: Fetch Subscription Plans via `plan-list` API**
 
 #### ✅ API Endpoint:
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/plan-list' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -645,7 +710,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/plan-list' \
 ```
 
 #### 📥 Response:
-```json
+```
 {
   "success": true,
   "message": "Subscription details retrieved successfully",
@@ -694,7 +759,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/plan-list' \
 > User selects: `ICE Prime Support Basic` → `subscription_plan_id = 30`
 
 #### ✅ API Endpoint:
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/plan-details' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -707,7 +772,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/plan-details' \
 ```
 
 #### 📥 Response:
-```json
+```
 {
   "success": true,
   "message": "Subscription details retrieved successfully",
@@ -758,7 +823,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/plan-details' \
 > Only after user confirms "Buy Now"
 
 #### ✅ API Endpoint:
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/get-sub-summary' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -768,7 +833,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/get-sub-summary'
 ```
 
 #### 📥 Response:
-```json
+```
 {
   "success": true,
   "message": "Subscription details retrieved successfully",
@@ -809,7 +874,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/get-sub-summary'
 > On click of **"Confirm"**
 
 #### ✅ API Endpoint:
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/create-subscription' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -819,7 +884,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/create-subscript
 ```
 
 #### 📥 Response:
-```json
+```
 {
   "success": true,
   "message": "Subscription created successfully!",
@@ -875,7 +940,7 @@ Dear Jothiraj, your subscription to "ICE Prime Support Basic" is confirmed! Pay 
 > Triggered if user clicks **"Track Order"** (only for `ongoing_order` status)
 
 #### ✅ API: `ongoing-cx-details` with `query: "order"`
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/ongoing-cx-details' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -886,7 +951,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/ongoing-cx-detai
 ```
 
 #### 📥 Response:
-```json
+```
 {
   "success": true,
   "message": "Customer details retrieved successfully",
@@ -914,7 +979,7 @@ Status: New Order
 > Triggered if user clicks **"View Subscription"** (for `subscribed` status)
 
 #### ✅ API: `ongoing-cx-details` with `query: "subscription"`
-```bash
+```
 curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/ongoing-cx-details' \
 --header 'x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78' \
 --header 'Content-Type: application/json' \
@@ -925,7 +990,7 @@ curl --location 'https://vmsmatrix.readyassist.net/api/chat-bot/ongoing-cx-detai
 ```
 
 #### 📥 Response:
-```json
+```
 {
   "success": true,
   "message": "Customer details retrieved successfully",
@@ -994,30 +1059,7 @@ Enter Mobile → cx-status → {new, subscribed, ongoing_order}
               └─▶ Purchase Subscription → ... → SMS Payment
 ```
 
----
 
-# ⚠️ **ERROR HANDLING & EDGE CASES**
-
-| Scenario | Handling |
-|--------|----------|
-| Invalid mobile number | "Please enter a valid 10-digit Indian mobile number." |
-| Vehicle not found | "We couldn't find this vehicle. Please check the number and try again." |
-| No slots available | "No slots available for this date. Try another date." |
-| Lead ID expired | "Your booking session expired. Please start over." |
-| Duplicate order | "You've already booked this service. Track it here: [link]" |
-| Duplicate subscription | "You already have an active subscription. View it here." |
-| API timeout | "Our servers are busy. Please wait and try again in 30 seconds." |
-| Network error | "Network issue detected. Please check connection and retry." |
-
----
-
-# 🔐 **API SECURITY NOTES**
-
-- All APIs require `x-factor: 8qi7sag1vuq90yf5fwk21sly56uk78` header — **DO NOT EXPOSE IN FRONTEND**.
-- Always validate `customer_id` against authenticated session.
-- Never store `x-factor` in client-side storage.
-- Use HTTPS only.
-- Rate limiting applied per IP/mobile (assume 5 req/min).
 
 ---
 
@@ -1085,24 +1127,14 @@ Below is a detailed explanation of each API endpoint used in the ReadyAssist Cha
 
 # ✅ **CONCLUSION**
 
-This document provides a **complete, battle-tested, production-ready workflow** for integrating **ReadyAssist's chatbot system** for **order and subscription creation**.
+This document provides a **complete, production-ready workflow** for integrating **ReadyAssist's chatbot system** for **order and subscription creation**.
 
 Every API, response, edge case, decision tree, and UX prompt has been meticulously documented.
 
-> ✅ **Next Steps for Dev Team**:
-> 1. Build state machine engine (e.g., Redux, Zustand, or simple FSM).
-> 2. Integrate all APIs with proper error retries.
-> 3. Implement session persistence (Redis/MongoDB).
-> 4. Connect WhatsApp/SMS gateways (Twilio/Msg91).
-> 5. Add logging and analytics for each flow step.
-> 6. QA test all paths with real vehicles and mobile numbers.
 
 ---
 
 **Prepared By**: ReadyAssist Integration Team  
-**Version**: 1.5  
-**Last Updated**: April 5, 2025  
-**Confidential**: Internal Use Only
 
 ---
 
