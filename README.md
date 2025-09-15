@@ -27,7 +27,7 @@
 - **Legal Entity**: Sundaravijayam Automobile Services Private Limited
 - **Headquarters**: Bangalore, Karnataka
 - **Address**: 839/2, 24th Main Rd, Behind Thirumala Theatre, 1st Sector, HSR Layout, Bengaluru, Karnataka - 560102
-- **Team Size**: 500+ members
+- **Team Size**: 150+ members
 - **Industry Rating**: 4.7 stars out of 5 on Google
 - **Certifications**: ISO 27001:2013 certified company
 
@@ -36,7 +36,7 @@ ReadyAssist is India's leading technology-backed roadside assistance and vehicle
 
 ### Key Statistics
 - **Coverage**: 19,100+ pincodes across 700+ districts in India
-- **Service Network**: 10,000+ skilled mechanics and service providers
+- **Service Network**: 11,000+ skilled mechanics and service providers
 - **Vehicles Served**: 30+ lakh (3 million+) happy customers
 - **EV Specialists**: Largest network of EV trained service providers
 - **Service Rating**: 4.9/5 customer rating
