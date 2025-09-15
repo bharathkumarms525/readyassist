@@ -16,15 +16,72 @@ It includes:
 - Request/Response payloads
 - Decision trees based on customer status
 - State transitions
-- Payment channel differences (WhatsApp vs SMS)
-- Error handling notes
-- UX flow (buttons, prompts, validations)
-
-All data is derived from live system responses and real-world use cases.
 
 ---
 
 ## 🔄 **Complete Workflow Diagram**
+
+```mermaid
+graph TD
+    A[Start: Greeting] --> B[Ask Mobile Number]
+    B --> C[Validate Customer Status<br/>cx-status API]
+    C --> D{Customer Status}
+    D -->|New Customer| E[Greet & Show Menu:<br/>Book Service / Purchase Subscription / Customer Service]
+    D -->|Subscribed| F[Fetch Subscription Details<br/>ongoing-cx-details API<br/>Show Menu: Book Service / Purchase Subscription / Customer Service]
+    D -->|Ongoing Order| G[Fetch Order Details<br/>ongoing-cx-details API<br/>Show Menu: Track Order / Book Service / Purchase Subscription / Customer Support / Change Location]
+    
+    E --> H{User Action}
+    F --> H
+    G --> I{User Action}
+    
+    H -->|Book Service| J[Ask Vehicle Registration Number]
+    H -->|Purchase Subscription| K[Ask Vehicle Registration Number]
+    I -->|Track Order| L[Show Tracking Details<br/>ongoing-cx-details API]
+    I -->|Book Service| J
+    I -->|Purchase Subscription| K
+    I -->|Change Location| M[Ask New Location]
+    
+    J --> N[Check Vehicle Status<br/>vehicle-info API]
+    K --> N
+    
+    N --> O{Vehicle Status}
+    O -->|Subscribed| P[Ask Location]
+    O -->|Registered| P
+    O -->|Unregistered| Q[Vehicle Registration Flow:<br/>Ask Type → Ask Model → Search Vehicles → Confirm Selection → Register Vehicle]
+    
+    Q --> P
+    
+    M --> R[Refresh Service/Plan List with New Location]
+    
+    P --> S{Flow Type}
+    S -->|Order Flow| T[Fetch Available Services<br/>service-list API]
+    S -->|Subscription Flow| U[Fetch Subscription Plans<br/>plan-list API]
+    
+    T --> V{Service Category}
+    V -->|Towing| W[Ask Drop-off Location]
+    V -->|RSA| X[Fetch Available Dates<br/>get-dates API]
+    
+    W --> X
+    
+    X --> Y[Fetch Time Slots<br/>booking-slots API]
+    Y --> Z[Show Order Summary]
+    Z --> AA[Create Order<br/>create-order API]
+    AA --> AB[Send WhatsApp Payment Link]
+    AB --> AC[Ask Feedback]
+    
+    U --> AD[Show Plan Details<br/>plan-details API]
+    AD --> AE{User Decision}
+    AE -->|Choose Another Plan| U
+    AE -->|Buy Now| AF[Get Subscription Summary<br/>get-sub-summary API]
+    AF --> AG[Create Subscription<br/>create-subscription API]
+    AG --> AH[Send SMS Payment Link]
+    AH --> AC
+    
+    AC --> AI[End]
+    
+    L --> AI
+    R --> AI
+```
 
 ```
 graph TD
@@ -1139,3 +1196,4 @@ Every API, response, edge case, decision tree, and UX prompt has been meticulous
 ---
 
 ✅ **DOCUMENT COMPLETE. READY FOR DEVELOPMENT & QA.**
+
