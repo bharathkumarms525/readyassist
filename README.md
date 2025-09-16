@@ -34,12 +34,12 @@
 ReadyAssist is India's leading technology-backed roadside assistance and vehicle lifecycle management company, specializing in 24/7 emergency assistance and EV repairs. The company aims to fulfill vehicle needs when it matters the most, ensuring reliability and quality without compromising on speed.
 
 ### Key Statistics
-- **Coverage**: The company provides services across 19,100+ pincodes in India. Its reach spans over 700+ districts, ensuring nationwide accessibility.
+- **Coverage**: The company provides services across 19,100+ pincodes in India. Its reach spans over 700+ districts, ensuring nationwide accessibility. This extensive coverage network means that whether you're in a major metropolitan area or a smaller town, ReadyAssist services are likely available in your location. Our service network is continuously expanding to reach more remote areas and ensure that vehicle owners across India have access to reliable roadside assistance. The 19,100+ pincode coverage represents more than 95% of India's populated areas, making us one of the most widely available roadside assistance providers in the country.
 - **Service Network**: With a network of 11,000+ skilled mechanics and service providers, it delivers reliable vehicle support across urban and rural regions.
 - **Vehicles Served**: Over 30 lakh (3 million+) vehicles have been successfully serviced. This reflects a strong track record of customer satisfaction and trust.
 - **EV Specialists**: It boasts the largest network of EV-trained service providers in India. Specialized support ensures safe and efficient care for electric vehicles.
 - **Service Rating**: Customers have rated the service an impressive 4.9 out of 5. This high rating highlights consistent quality and responsiveness.
-- **Response Time**: On-road support is delivered in under 60 minutes on average. Rapid response ensures minimal downtime and maximum convenience.
+- **Response Time**: On-road support is delivered in under 60 minutes on average. Rapid response ensures minimal downtime and maximum convenience. This average response time is calculated based on our nationwide service data and represents our commitment to providing prompt assistance to stranded vehicle owners. In urban areas with high service provider density, response times are typically much faster, often within 30 minutes. The 60-minute average accounts for factors such as traffic conditions, distance to the nearest service provider, and time of day. During peak hours in major cities, we often achieve response times well under 30 minutes, while in rural or remote areas, response times may extend to 2-3 hours due to greater distances.
 
 ---
 
@@ -67,13 +67,13 @@ Our towing services are designed to assist you promptly, ensuring your vehicle i
   - Provide maintenance tips & recommendations
 
 - **Pricing**: 
-  - Bike Towing: Starting from ₹1,450* (excluding taxes)
-  - Car Towing: Starting from ₹3,500* (excluding taxes)
+  - Bike Towing: Starting from ₹1,450* (excluding taxes). This base price covers the essential towing service for two-wheelers within the standard coverage area. The final cost may vary depending on factors such as distance, time of service (day/night rates), vehicle condition, and any additional services required. For longer distances beyond the standard coverage, additional charges apply per kilometer as per prevailing market rates. Our transparent pricing ensures you know exactly what you're paying for, with no hidden costs.
+  - Car Towing: Starting from ₹3,500* (excluding taxes). This base price covers the essential towing service for four-wheelers within the standard coverage area. The final cost may vary depending on factors such as distance, time of service (day/night rates), vehicle condition, and any additional services required. For larger vehicles or those requiring special handling, additional charges may apply. For longer distances beyond the standard coverage, additional charges apply per kilometer as per prevailing market rates. Our transparent pricing ensures you know exactly what you're paying for, with no hidden costs.
   - Day & Night charges are different (Day: 6AM to 8PM, Night: 8PM to 6AM)
 
-- **Coverage**: 20-250 km depending on subscription plan
+- **Coverage**: 20-250 km depending on subscription plan. Our towing coverage varies significantly based on the subscription plan you choose, ranging from a minimum of 20 kilometers for our most basic plans to up to 250 kilometers for our premium offerings. This flexible coverage system ensures that customers can select a plan that matches their typical travel patterns and needs. For city dwellers who rarely travel long distances, the 20-50 km coverage may be sufficient, while frequent travelers or those living in rural areas may benefit from the extended 250 km coverage. The coverage distance is measured from the incident location to the destination workshop or service center of your choice. For distances beyond your plan's coverage limit, additional charges apply per kilometer as per prevailing market rates.
 - **Vehicle Types**: Scooters, motorcycles, sedans, SUVs, and commercial vehicles
-- **Response Time**: Typically within 30 minutes in city areas
+- **Response Time**: Typically within 30 minutes in city areas. In major metropolitan areas where we maintain a higher density of service providers, our target response time is 30 minutes or less. This commitment is backed by our advanced technology platform that uses real-time GPS tracking to identify and dispatch the nearest available service provider. During peak traffic hours, response times may be slightly longer due to congestion, while during off-peak hours, response times are often significantly faster. Our service providers are strategically positioned throughout urban centers to minimize travel time and ensure prompt assistance.
 - **Additional Services**: Taxi support (up to ₹1000 reimbursement for 50km), Accommodation support (up to ₹1500 reimbursement)
 
 #### Flat Tyre Repair
@@ -92,7 +92,7 @@ Experience hassle-free bike & car flat tire puncture repair assistance with our 
   - Recheck the tyre for air pressure and fitting
   - Provide maintenance tips & recommendations
 
-- **Coverage**: On-spot repairs for both tube & tubeless tyres with utmost care and professionalism
+- **Coverage**: On-spot repairs for both tube & tubeless tyres with utmost care and professionalism. Our flat tire repair service covers a comprehensive range of tire issues for both tube-type and tubeless tires commonly found on bikes and cars. Our technicians are equipped with specialized tools and high-quality patches to ensure durable repairs that can last for hundreds of kilometers. For tubeless tires, we use professional-grade sealants and patches that maintain the tire's integrity and air pressure. In cases where on-spot repair is not feasible due to extensive damage, our technicians can arrange for tire replacement through our partner network, with the cost of replacement being borne by the customer.
 - **Additional Support**: Experienced puncture mechanic dispatched to your location
 - **Partner Network**: Tyre replacement available through partner vendors if needed
 
@@ -115,7 +115,7 @@ Count on us for reliable bike & car battery jumpstart services! Our skilled tech
   - Provide maintenance tips & recommendations
 
 - **Professional Approach**: 
-  - Reach customer location within 30 minutes
+  - Reach customer location within 30 minutes. Our service providers are trained to reach customer locations promptly, with a target of 30 minutes in urban areas. This time frame begins from when the service request is confirmed and dispatched to the nearest available provider. Factors that may affect actual arrival time include traffic conditions, weather, distance from the service provider's current location, and time of day. During emergency situations, our dispatch system prioritizes urgent requests to ensure the fastest possible response.
   - Use specialized equipment for safe jumpstarting
   - Check for alert signals on dashboard cluster instrument
   - Verify battery voltage compatibility
@@ -123,7 +123,7 @@ Count on us for reliable bike & car battery jumpstart services! Our skilled tech
 - **Post-Service Recommendations**:
   - Leave vehicle ON for at least 30-40 minutes after jumpstart
   - Drive 10-15 KMs after successful jumpstart
-  - Battery recharging support available (additional ₹250)
+  - Battery recharging support available (additional ₹250). If your vehicle battery requires recharging after a jumpstart, our technicians can provide this service for an additional charge of ₹250. This service includes professional battery testing to determine its condition and charging using specialized equipment to ensure optimal performance. The service typically takes 30-45 minutes and helps extend your battery's lifespan while ensuring reliable vehicle operation.
   - Battery replacement assistance through partner vendors
 
 - **Quality Assurance**: One of the most recommended and best doorstep battery jumpstart services in India
@@ -147,7 +147,7 @@ Get instant on-spot support for breakdown & starting problem issues with our exp
 - **Approach**: On-spot diagnosis and quick fixes for mobilization
 - **Follow-up**: Recommendation for workshop visit for long-term solutions
 - **Network Support**: Access to best car workshops and bike workshops for major repairs under end-to-end monitoring
-- **Response Time**: Within 30 minutes for bikes & cars
+- **Response Time**: Within 30 minutes for bikes & cars. Our commitment to rapid response applies to both two-wheelers and four-wheelers, with service providers trained to handle the specific requirements of each vehicle type. The 30-minute response time target is achievable in urban areas with adequate service provider coverage. For bikes, this quick response is particularly valuable as two-wheeler riders are often more exposed to weather conditions and traffic risks while waiting for assistance.
 
 #### Key Unlock Assistance
 **Professional Vehicle Unlocking Services**
@@ -198,7 +198,7 @@ Don't let an empty tank derail your plans – rely on our hassle-free fuel deliv
 
 - **Availability**: Only when vehicle is on road and completely out of fuel
 - **Pricing**: Fuel charged at actuals plus delivery charges
-- **Cancellation**: ₹300-₹400 charge if request cancelled after technician reaches spot
+- **Cancellation**: ₹300-₹400 charge if request cancelled after technician reaches spot. To compensate our service providers for their time and travel expenses, a cancellation fee is applicable if you cancel the service after our technician has already reached your location. The exact fee depends on factors such as the type of service requested and the distance traveled by the technician. For basic services like flat tire repair or jumpstart, the fee is typically ₹300, while for more complex services like major repairs or installations, the fee may be up to ₹400. We recommend confirming your service requirements before booking to avoid any inconvenience. This policy helps us maintain our high-quality service standards and ensures fair compensation for our technicians.
 
 ### 2. Doorstep Services
 **Professional Automobile Expertise Delivered to Your Location**
@@ -227,7 +227,7 @@ Understand your vehicle's condition with our comprehensive 78-point doorstep ins
   - Book inspection slot online or by phone
   - Expert technician arrives at scheduled time
   - Comprehensive 78-point inspection conducted
-  - Detailed report provided within 10 minutes on WhatsApp
+  - Detailed report provided within 10 minutes on WhatsApp. After completing our comprehensive 78-point vehicle inspection, our technicians prepare and send a detailed digital report directly to your WhatsApp within 10 minutes. This quick turnaround ensures you receive immediate insights into your vehicle's condition without waiting. The report includes digital photos, identified issues, recommended actions, and maintenance tips. This fast reporting system allows you to make informed decisions about necessary repairs or maintenance while still at the inspection site.
 
 - **Benefits**: 
   - Avoid unexpected costs through informed decision-making
@@ -236,8 +236,8 @@ Understand your vehicle's condition with our comprehensive 78-point doorstep ins
   - Peace of mind with comprehensive evaluation
 
 - **Requirements**: RC Copy, Insurance, and Pollution Certificate ready for inspection
-- **Duration**: Approximately 2 hours depending on vehicle condition
-- **Pricing**: ₹999 (60% OFF from ₹2499, plus 18% GST)
+- **Duration**: Approximately 2 hours depending on vehicle condition. Our comprehensive 78-point car inspection typically takes around 2 hours to complete, though the exact duration may vary based on the specific condition of your vehicle. Vehicles requiring more extensive examination or those with identified issues that need detailed assessment may require additional time. Our technicians conduct a thorough inspection covering all major systems including engine, transmission, brakes, suspension, electrical systems, and safety components. The 2-hour timeframe allows for a detailed assessment while ensuring you receive your vehicle back in a reasonable time.
+- **Pricing**: ₹999 (60% OFF from ₹2499, plus 18% GST). Our comprehensive car inspection service is offered at a significantly discounted rate of ₹999, which represents a 60% savings from the original price of ₹2499. This price includes all taxes (18% GST) and covers the complete 78-point inspection process performed by our certified technicians. The inspection includes a detailed assessment of your vehicle's exterior, interior, engine components, electrical systems, and safety features. Upon completion, you'll receive a comprehensive report via WhatsApp within 10 minutes, providing you with clear insights into your vehicle's condition and maintenance recommendations. This service offers exceptional value for money, especially when compared to garage inspection costs which typically range from ₹1500-₹3000.
 
 #### Bike Express Services
 **Professional Doorstep Bike Servicing**
@@ -264,8 +264,8 @@ Get professional bike servicing at home with a 24-point comprehensive check, inc
   - Time-saving experience with professional care
   - Affordable pricing with top-quality service
 
-- **Service Coverage**: Up to 150cc for bikes & scooters
-- **Pricing**: ₹1,179 (inclusive of taxes)
+- **Service Coverage**: Up to 150cc for bikes & scooters. Our doorstep bike servicing is specifically designed and optimized for motorcycles and scooters with engine capacities up to 150cc, which represents the majority of bikes used for daily commuting in India. This coverage limit ensures that our technicians can provide the most effective and efficient service using equipment and expertise tailored to this engine capacity range. For bikes with engine capacities above 150cc, we recommend visiting our specialized service centers or authorized dealerships where more comprehensive equipment and expertise for larger engines are available. This approach allows us to maintain our high service quality standards while offering competitive pricing for the most common bike segments.
+- **Pricing**: ₹1,179 (inclusive of all taxes). Our doorstep bike servicing is offered at a competitive price of ₹1,179, which includes all applicable taxes. This comprehensive service covers a 24-point vehicle check, including essential maintenance tasks such as engine oil replacement, brake inspection, chain lubrication, air filter cleaning, battery check, and tyre pressure verification. The service also includes a thorough water/dry wash to keep your bike looking pristine. Our certified technicians use high-quality lubricants and spare parts to ensure optimal performance. The price also includes post-service recommendations to help maintain your bike's performance and extend its lifespan. Compared to garage services that typically cost between ₹1200-₹2000, our doorstep service offers convenience without compromising on quality.
 - **Service Areas**: Available across major cities in India
 - **Quality Assurance**: 4.7 Google rating with 100,000+ satisfied customers
 
@@ -301,10 +301,10 @@ Get expert technicians to install car dashcams, whether purchased online or offl
   - Customer satisfaction guarantee
 
 - **Delivery & Installation Timeline**:
-  - Product delivery within 2-3 hours if ordered before 5 PM
+  - Product delivery within 2-3 hours if ordered before 5 PM. For dashcam orders placed before 5 PM on weekdays, we offer expedited delivery within 2-3 hours to ensure you receive your product quickly. This fast delivery service is available in major metropolitan areas where our logistics network is most robust. Orders placed after 5 PM or on weekends will be delivered the next business day. Our delivery team works closely with our installation technicians to ensure seamless service coordination.
   - Next day delivery for orders after 5 PM
-  - Installation within 24 hours of order placement
-  - Installation duration: 1-2 hours depending on dashcam type
+  - Installation within 24 hours of order placement. Once your dashcam order is confirmed and delivered, we schedule professional installation within 24 hours at your preferred time slot. This timeframe allows our technicians to prepare the necessary equipment and coordinate with you for a convenient installation time. During peak periods, installation may be scheduled within 48 hours, but we prioritize urgent requests to ensure minimal delay in enjoying your new dashcam's security features.
+  - Installation duration: 1-2 hours depending on dashcam type. The actual installation process typically takes between 1-2 hours, with simpler models requiring less time and advanced models with multiple cameras or specialized features taking closer to 2 hours. Our certified technicians ensure professional installation with proper cable management and optimal camera positioning for maximum coverage. The installation includes testing all functions to ensure proper operation before completion.
 
 #### Seat Cover Fitment
 **Premium Custom-Fit Seat Covers with Professional Installation**
@@ -469,11 +469,12 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 
 ### Bike Plans
 
-#### Bike Premium - ₹6,499 (Most Popular)
+#### Bike Premium - ₹6,499 (Most Popular Plan for Comprehensive Coverage)
+This is our most comprehensive bike subscription plan, offering unlimited roadside assistance services for an entire year at a competitive price of ₹6,499. As the most popular choice among our customers, this plan provides unlimited incidents of all covered services, making it ideal for frequent riders or those who want complete peace of mind. The plan includes unlimited towing services up to 250 kilometers per incident, which is particularly valuable for long-distance travelers. With this plan, you're covered for all essential roadside assistance services including flat tire repair, battery jumpstart, fuel delivery, key unlock assistance, and more. The value proposition is exceptional, as a single towing service alone could cost ₹1,500-₹3,000 depending on distance, making this plan cost-effective for regular users.
 - **Validity**: 365 days
 - **Incidents**: Unlimited free incidents
 - **Services Covered**:
-  - Accidental Towing: Up to 250 kms
+  - Accidental Towing: Up to 250 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our premium plans include comprehensive towing coverage up to 250 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This extensive coverage is particularly valuable for long-distance travelers or those who frequently drive in areas where reliable service centers may be far from accident sites. The 250 km limit ensures that even in remote locations, you can be towed to a suitable facility without incurring additional charges. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Flat Tyre (Tube): ✓ Available
   - Flat Tyre (Tubeless): ✓ Available
   - Battery Jumpstart: ✓ Available
@@ -481,15 +482,16 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
   - Custody Service: ✓ Available
   - Key Unlock Assistance: ✓ Available
   - Fuel Delivery: ✓ Available
-  - Breakdown Towing: Up to 250 kms
-  - Accidental Towing: Up to 250 kms
+  - Breakdown Towing: Up to 250 kms. When your vehicle experiences a mechanical breakdown that cannot be resolved on-site, our premium plans provide towing coverage up to 250 kilometers to your preferred destination. This comprehensive coverage ensures that whether you break down in the city or on a remote highway, you can be transported to a trusted repair facility without additional costs. Our professional towing service uses appropriate equipment based on your vehicle type to ensure safe transportation and prevent further damage during the towing process.
+  - Accidental Towing: Up to 250 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our premium plans include comprehensive towing coverage up to 250 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This extensive coverage is particularly valuable for long-distance travelers or those who frequently drive in areas where reliable service centers may be far from accident sites. The 250 km limit ensures that even in remote locations, you can be towed to a suitable facility without incurring additional charges. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Starting Problem: ✓ Available
 
-#### Bike Pro - ₹1,299
+#### Bike Pro - ₹1,299 (Balanced Coverage Plan)
+The Bike Pro plan offers a balanced combination of affordability and coverage at ₹1,299 per year. This plan includes 5 free incidents of roadside assistance services, making it suitable for moderate bike users who don't require unlimited coverage but still want reliable protection. The plan covers essential services like flat tire repair, battery jumpstart, fuel delivery, and key unlock assistance. Towing services are available up to 50 kilometers per incident, which is sufficient for most city-based emergencies. This plan is ideal for daily commuters who occasionally need roadside assistance but don't travel long distances frequently.
 - **Validity**: 365 days
 - **Incidents**: 5 free incidents
 - **Services Covered**:
-  - Accidental Towing: Up to 50 kms
+  - Accidental Towing: Up to 50 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our standard plans include towing coverage up to 50 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This coverage is designed for typical city driving scenarios where service centers are generally accessible within this range. For distances beyond 50 kilometers, additional charges apply per kilometer as per prevailing market rates. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Flat Tyre (Tube): ✓ Available
   - Flat Tyre (Tubeless): ✓ Available
   - Battery Jumpstart: ✓ Available
@@ -497,11 +499,12 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
   - Custody Service: ✓ Available
   - Key Unlock Assistance: ✓ Available
   - Fuel Delivery: ✓ Available
-  - Breakdown Towing: Up to 50 kms
-  - Accidental Towing: Up to 50 kms
+  - Breakdown Towing: Up to 50 kms. When your vehicle experiences a mechanical breakdown that cannot be resolved on-site, our standard plans provide towing coverage up to 50 kilometers to your preferred destination. This coverage is suitable for most city driving situations where reliable repair facilities are typically accessible within this range. Our professional towing service uses appropriate equipment based on your vehicle type to ensure safe transportation and prevent further damage during the towing process. For distances beyond 50 kilometers, additional charges apply per kilometer as per prevailing market rates.
+  - Accidental Towing: Up to 50 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our standard plans include towing coverage up to 50 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This coverage is designed for typical city driving scenarios where service centers are generally accessible within this range. For distances beyond 50 kilometers, additional charges apply per kilometer as per prevailing market rates. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Starting Problem: ✓ Available
 
-#### Bike Basic - ₹999
+#### Bike Basic - ₹999 (Essential Coverage Plan)
+Our most affordable bike subscription plan at ₹999 per year provides essential roadside assistance for budget-conscious customers. This plan includes 3 free incidents of basic services such as flat tire repair, battery jumpstart, and key unlock assistance. While it doesn't include fuel delivery or towing services, it covers the most common roadside emergencies that bike users face. This plan is perfect for occasional riders or those who want basic protection without the premium features. It's an excellent entry-level option for customers new to subscription-based roadside assistance services.
 - **Validity**: 365 days
 - **Incidents**: 3 incidents
 - **Services Covered**:
@@ -519,11 +522,12 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 
 ### Car Plans
 
-#### Car Premium - ₹9999 (Most Popular)
+#### Car Premium - ₹9999 (Most Popular Plan for Comprehensive Car Coverage)
+Our most comprehensive car subscription plan offers unlimited roadside assistance services for an entire year at ₹9,999. As the most popular choice among our car owners, this plan provides unlimited incidents of all covered services, making it ideal for frequent drivers or those who want complete peace of mind. The plan includes unlimited towing services up to 250 kilometers per incident, which is particularly valuable for long-distance travelers or those living in areas with limited service centers. With this plan, you're covered for all essential roadside assistance services including flat tire repair, battery jumpstart, fuel delivery, key unlock assistance, and more. The value proposition is exceptional, especially considering that a single long-distance towing service alone could cost ₹5,000-₹10,000 depending on distance, making this plan highly cost-effective for regular users.
 - **Validity**: 365 days
 - **Incidents**: Unlimited free incidents
 - **Services Covered**:
-  - Accidental Towing: Up to 250 kms
+  - Accidental Towing: Up to 250 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our premium plans include comprehensive towing coverage up to 250 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This extensive coverage is particularly valuable for long-distance travelers or those who frequently drive in areas where reliable service centers may be far from accident sites. The 250 km limit ensures that even in remote locations, you can be towed to a suitable facility without incurring additional charges. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Flat Tyre (Tube): ✓ Available
   - Flat Tyre (Tubeless): ✓ Available
   - Battery Jumpstart: ✓ Available
@@ -531,11 +535,12 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
   - Custody Service: ✓ Available
   - Key Unlock Assistance: ✓ Available
   - Fuel Delivery: ✓ Available
-  - Breakdown Towing: Up to 250 kms
-  - Accidental Towing: Up to 250 kms
+  - Breakdown Towing: Up to 250 kms. When your vehicle experiences a mechanical breakdown that cannot be resolved on-site, our premium plans provide towing coverage up to 250 kilometers to your preferred destination. This comprehensive coverage ensures that whether you break down in the city or on a remote highway, you can be transported to a trusted repair facility without additional costs. Our professional towing service uses appropriate equipment based on your vehicle type to ensure safe transportation and prevent further damage during the towing process.
+  - Accidental Towing: Up to 250 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our premium plans include comprehensive towing coverage up to 250 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This extensive coverage is particularly valuable for long-distance travelers or those who frequently drive in areas where reliable service centers may be far from accident sites. The 250 km limit ensures that even in remote locations, you can be towed to a suitable facility without incurring additional charges. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Starting Problem: ✓ Available
 
-#### Car Pro - ₹2749
+#### Car Pro - ₹2749 (Balanced Car Coverage Plan)
+The Car Pro plan offers a balanced combination of affordability and coverage at ₹2,749 per year. This plan includes 5 free incidents of roadside assistance services, making it suitable for moderate car users who don't require unlimited coverage but still want reliable protection. The plan covers essential services like flat tire repair, battery jumpstart, fuel delivery, and key unlock assistance. While it doesn't include battery swapping services, it provides comprehensive coverage for most common roadside emergencies. This plan is ideal for daily commuters who occasionally need roadside assistance but don't travel long distances frequently.
 - **Validity**: 365 days
 - **Incidents**: 5 free incidents
 - **Services Covered**:
@@ -551,7 +556,8 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
   - Accidental Towing: ❌ Not Available
   - Starting Problem: ✓ Available
 
-#### Car Basic - ₹1699
+#### Car Basic - ₹1699 (Essential Car Coverage Plan)
+Our most affordable car subscription plan at ₹1,699 per year provides essential roadside assistance for budget-conscious customers. This plan includes 3 free incidents of basic services such as flat tire repair, battery jumpstart, and key unlock assistance. While it doesn't include fuel delivery, battery swapping, or towing services, it covers the most common roadside emergencies that car owners face. This plan is perfect for occasional drivers or those who want basic protection without the premium features. It's an excellent entry-level option for customers new to subscription-based roadside assistance services.
 - **Validity**: 365 days
 - **Incidents**: 3 incidents
 - **Services Covered**:
@@ -567,12 +573,13 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
   - Accidental Towing: ❌ Not Available
   - Starting Problem: ✓ Available
 
-#### Freedom Plan - ₹699
+#### Freedom Plan - ₹699 (Specialized Accidental Towing Coverage)
+Our specialized Freedom Plan focuses exclusively on accidental towing services at an affordable price of ₹699 per year. This unique plan offers unlimited incidents of accidental towing support across India with coverage up to 50 kilometers per incident. While it doesn't include other roadside assistance services like flat tire repair or battery jumpstart, it provides comprehensive coverage specifically for accidental towing needs. This plan is ideal for customers who already have basic roadside assistance through other means but want additional protection for accidental towing scenarios. The plan's affordability makes it an attractive add-on to existing insurance or basic assistance packages.
 - **Validity**: 365 days
 - **Incidents**: Unlimited incidents
 - **Special Focus**: Unlimited 24/7 Accidental Towing Support across India
 - **Services Covered**:
-  - Accidental Towing: Up to 50 kms
+  - Accidental Towing: Up to 50 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our standard plans include towing coverage up to 50 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This coverage is designed for typical city driving scenarios where service centers are generally accessible within this range. For distances beyond 50 kilometers, additional charges apply per kilometer as per prevailing market rates. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Flat Tyre (Tube): ❌ Not Available
   - Flat Tyre (Tubeless): ❌ Not Available
   - Battery Jumpstart: ❌ Not Available
@@ -581,16 +588,16 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
   - Key Unlock Assistance: ❌ Not Available
   - Fuel Delivery: ❌ Not Available
   - Breakdown Towing: ❌ Not Available
-  - Accidental Towing: Up to 50 kms
+  - Accidental Towing: Up to 50 kms. In the event of a vehicle accident that renders your vehicle non-drivable, our standard plans include towing coverage up to 50 kilometers to your preferred destination such as a trusted repair workshop, dealership, or your home. This coverage is designed for typical city driving scenarios where service centers are generally accessible within this range. For distances beyond 50 kilometers, additional charges apply per kilometer as per prevailing market rates. This service includes careful vehicle handling with appropriate towing equipment to prevent further damage during transport.
   - Starting Problem: ❌ Not Available
 
 ### Extended Coverage Features
-- **Higher Coverage Limits**: Car plans offer extended kilometer coverage compared to bike plans
+- **Higher Coverage Limits**: Car plans offer extended kilometer coverage compared to bike plans. Recognizing that cars typically travel longer distances and may require more extensive towing services, our car subscription plans provide higher kilometer coverage limits than our bike plans. While bike plans typically offer coverage ranging from 20-250 kilometers depending on the plan tier, car plans provide enhanced coverage to accommodate the longer travel distances common with car usage. This differentiation ensures that customers receive appropriate coverage based on their vehicle type and usage patterns, providing better value for money.
 - **Fleet Options**: Special B2B contracts available for commercial fleets
 - **Comprehensive Support**: Full range of roadside assistance services
 
 ### Subscription Features
-- **Cooling Period**: 72-120 hours from purchase before service activation
+- **Cooling Period**: 72-120 hours from purchase before service activation. After purchasing a subscription plan, there is a mandatory cooling period of 72-120 hours before services can be activated. This period allows customers to review their plan details, make any necessary changes to vehicle information, and familiarize themselves with the terms and conditions. The exact duration depends on the specific plan purchased, with some plans requiring a longer cooling period. This policy also helps prevent misuse of services and ensures that all customer information is accurately registered in our system before service activation.
 - **Vehicle Specific**: Each plan linked to specific vehicle registration number
 - **Family Usage**: Any authorized family member can avail services (except key unlock and towing)
 - **Upgrade Options**: Plan upgrades allowed within cooling period
@@ -601,30 +608,30 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 ## CNG Services (CNGFirst)
 
 ### Service Overview
-**CNGFirst** is ReadyAssist's CNG retrofitment division, positioned as India's largest chain of government-approved CNG conversion centers.
+**CNGFirst** is ReadyAssist's specialized CNG retrofitment division, established as India's largest chain of government-approved CNG conversion centers. This dedicated division focuses exclusively on providing high-quality compressed natural gas (CNG) conversion services for a wide range of vehicles, from personal cars to commercial fleets. As a government-approved entity, CNGFirst adheres to the strictest safety standards and quality protocols set by regulatory authorities, ensuring that all conversions meet or exceed national safety requirements. The division leverages ReadyAssist's extensive network and technological expertise to offer convenient, reliable, and cost-effective CNG conversion solutions across India. With over 100+ centers nationwide, CNGFirst has established itself as the most accessible and trusted CNG conversion service provider in the country, offering customers a seamless transition to cleaner, more economical fuel alternatives.
 
 ### Coverage & Presence
-- **States**: 6 states
-- **Cities**: 7+ cities
-- **Districts**: 14 districts in 5 states
-- **Retrofitment Centers**: 100+ centers across India
+- **States**: 6 states. CNGFirst currently operates in six major Indian states, strategically selected to maximize accessibility for vehicle owners across diverse geographic regions. These states represent key automotive markets and areas with significant demand for cleaner fuel alternatives, including Tamil Nadu, Karnataka, Kerala, Madhya Pradesh, Andhra Pradesh, and Bihar.
+- **Cities**: 7+ cities. Our services are available in more than seven major cities, with continuous expansion to meet growing customer demand. These urban centers are chosen based on factors such as vehicle density, environmental regulations, and infrastructure readiness for CNG adoption, ensuring that customers in metropolitan areas have convenient access to our services.
+- **Districts**: 14 districts in 5 states. Beyond major metropolitan areas, CNGFirst extends its reach to 14 districts across five states, ensuring that customers in semi-urban and suburban areas also have access to professional CNG conversion services without having to travel long distances to major cities. This extended coverage demonstrates our commitment to making CNG conversion accessible to a broader customer base.
+- **Retrofitment Centers**: 100+ centers across India. With over 100 specialized retrofitment centers strategically positioned across the country, CNGFirst maintains the largest network of CNG conversion facilities in India. Each center is equipped with state-of-the-art equipment, staffed by certified technicians, and maintains adequate inventory of genuine CNG components to ensure quick and efficient service delivery, with most centers capable of handling multiple vehicle conversions per day.
 
 #### State-wise Coverage:
-- **Tamil Nadu**: 1+ cities (Chennai, Kanchipuram)
-- **Karnataka**: 3+ cities
-- **Kerala**: 1+ cities
-- **Madhya Pradesh**: 1+ cities
-- **Andhra Pradesh**: 2+ cities
-- **Bihar**: 1+ cities
+- **Tamil Nadu**: 1+ cities (Chennai, Kanchipuram). In Tamil Nadu, CNGFirst operates in Chennai, the state capital and a major automotive hub, as well as Kanchipuram, an important industrial area. These locations provide comprehensive coverage for both personal and commercial vehicle owners in the region, with easy access to major highways and industrial zones.
+- **Karnataka**: 3+ cities. Our Karnataka operations span across three or more major cities, including Bangalore (the state capital and technology hub), ensuring extensive coverage for the large vehicle population in this economically significant state. The presence in multiple cities allows us to serve both urban and semi-urban customers effectively.
+- **Kerala**: 1+ cities. CNGFirst maintains a presence in at least one major city in Kerala, providing essential CNG conversion services to vehicle owners in this coastal state known for its focus on environmental sustainability.
+- **Madhya Pradesh**: 1+ cities. Our operations in Madhya Pradesh cover at least one key city in this central Indian state, serving the needs of vehicle owners in this geographically large state with a significant automotive market.
+- **Andhra Pradesh**: 2+ cities. With operations in two or more cities in Andhra Pradesh, we ensure adequate coverage for vehicle owners in this southeastern state, which has a growing automotive industry and increasing demand for cleaner fuel alternatives.
+- **Bihar**: 1+ cities. CNGFirst maintains a presence in at least one major city in Bihar, extending our services to this populous eastern state where there is growing awareness of the benefits of CNG as a cleaner fuel option.
 
 ### CNG Kit Partners
 **Official partnerships with leading CNG kit manufacturers:**
-- Lovato
-- Mijo
-- Sagas
-- Shigan
-- Amol Prala
-- SUV
+- **Lovato**: An internationally recognized Italian manufacturer of high-quality CNG conversion systems, known for their advanced sequential injection technology and compliance with European safety standards. Lovato systems are renowned for their reliability, fuel efficiency, and precise engine calibration.
+- **Mijo**: A trusted Indian manufacturer specializing in cost-effective yet reliable CNG conversion kits that meet all government safety and performance standards. Mijo kits are particularly popular for their durability and excellent value proposition for budget-conscious customers.
+- **Sagas**: A leading manufacturer of CNG systems known for their innovative designs and high-performance components. Sagas systems offer excellent fuel efficiency and are designed for easy maintenance and long service life.
+- **Shigan**: A reputable manufacturer of CNG conversion equipment, recognized for their robust construction and reliable performance in various vehicle types and operating conditions. Shigan systems are particularly well-suited for commercial vehicles and heavy-duty applications.
+- **Amol Prala**: An Indian manufacturer specializing in indigenous CNG conversion solutions that offer excellent compatibility with Indian vehicle specifications and driving conditions. Amol Prala kits are designed to work seamlessly with local vehicle makes and models.
+- **SUV**: A manufacturer known for producing specialized CNG systems designed specifically for sports utility vehicles and larger vehicle categories, ensuring optimal performance and safety for these vehicle types.
 
 ### Service Process
 
@@ -651,7 +658,7 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 - **Government Support**: Government-approved conversion process
 
 ### Installation Timeline
-- **Cars**: 4-6 hours installation time
+- **Cars**: 4-6 hours installation time. CNG kit installation for cars typically requires 4-6 hours to complete, depending on the vehicle model and specific kit requirements. Our certified technicians follow a meticulous process that includes safety checks, proper kit fitting, pressure testing, and comprehensive system verification. This timeframe ensures that the installation meets all safety standards and performance requirements. The process includes evacuation of the existing fuel system, installation of the CNG kit components, pressure testing, and calibration to ensure optimal performance and safety.
 - **Commercial Vehicles**: 7-12 days installation time
 
 ### Warranty & Support
@@ -719,7 +726,7 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 10. **Proven Partnerships with Leading Insurers**
 
 #### Claim Processing Timeline
-- **Verification**: 24-48 hours for most claims
+- **Verification**: 24-48 hours for most claims. Our insurance claim verification process typically takes 24-48 hours for standard claims, during which our AI-powered system analyzes submitted documents and images to assess the validity and extent of damage. Complex claims or those requiring additional documentation may take longer to process. Our team of experts reviews each claim to ensure accuracy and compliance with insurance policies. During this verification period, customers receive regular updates via SMS or email about their claim status.
 - **Urgent Cases**: Minutes for roadside assistance dispatch
 - **Claim Tracking**: Real-time status updates via SMS/Email
 - **Re-evaluation**: Available for rejected claims
@@ -732,7 +739,7 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 - **Pincodes**: 19,100+ pincodes covered
 - **Districts**: 700+ districts across India
 - **Service Providers**: 11,000+ service providers
-- **Response Time**: 60 minutes within city limits, 2-3 hours outside city limits
+- **Response Time**: 60 minutes within city limits, 2-3 hours outside city limits. Our response time commitment varies based on geographic location to account for differences in service provider density and travel distances. Within city limits where we maintain a robust network of service providers, we aim to reach customers within 60 minutes. Outside city limits, particularly in rural or remote areas, response times typically range from 2-3 hours due to greater distances and fewer service providers in the immediate vicinity. These timeframes represent our average performance and may vary based on specific circumstances such as traffic conditions, weather, and the complexity of the service required.
 
 ### Vehicle Categories Supported
 
@@ -842,7 +849,7 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 - **Priority Service**: Faster response for subscribed customers
 - **Transparent Pricing**: No hidden charges policy
 - **Quality Assurance**: ISO certified processes
-- **Nationwide Coverage**: Service availability across India
+- **Nationwide Coverage**: Service availability across India. Our services are available across all states and union territories of India, ensuring that whether you're traveling for business, leisure, or daily commuting, ReadyAssist support is accessible wherever you go. Our extensive network of over 10,000 skilled service providers is strategically positioned to offer prompt assistance in both urban centers and rural areas. This nationwide coverage is backed by our technology platform that enables real-time tracking and dispatch of the nearest available service provider, ensuring consistent service quality regardless of your location.
 - **Technology Integration**: AI-powered service management
 
 ---
@@ -930,11 +937,11 @@ At ReadyAssist, we specialize in comprehensive Car & Bike Fitment Services, offe
 ## Contact Information
 
 ### Primary Contact
-- **Email**: hello@readyassist.in
-- **Phone**: 8197 852 852 (ReadyAssist)
-- **CNG Services**: 70 2201 2201 (CNGFirst)
+- **Email**: For general inquiries and support, reach out via email at hello@readyassist.in. This is the official communication channel for ReadyAssist services. Our customer support team monitors this email address during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and responds to all inquiries within one business day. When contacting us via email, please include relevant details such as your vehicle registration number, subscription information, order number, or any other pertinent information that will help us assist you more efficiently. This email address can be used for a wide range of inquiries including subscription management, service requests, billing questions, feedback, partnership opportunities, and general company information.
+- **Phone**: For immediate roadside assistance or service-related queries, you can call our dedicated helpline at 8197 852 852. This number connects you directly to our ReadyAssist support team who are available 24/7 to assist you with emergency breakdowns, service bookings, subscription inquiries, and technical support. When you call this number, you'll be greeted by our trained customer service representatives who will quickly assess your situation and dispatch the nearest available service provider to your location. Our support team is equipped to handle a wide range of vehicle-related issues and can provide immediate guidance over the phone while arranging on-site assistance if needed.
+- **CNG Services**: For CNG-specific vehicle support, you can dial our dedicated CNG helpline at 70 2201 2201. This line is exclusively dedicated to CNGFirst, ReadyAssist's specialized CNG service wing. Our CNG specialists are available during business hours (Monday to Saturday, 9:00 AM to 7:00 PM IST) to assist you with all your compressed natural gas vehicle needs. Whether you need help with CNG vehicle conversion inquiries, retrofitment appointments, CNG kit installations, or CNG-related technical support, our trained experts can provide detailed guidance and schedule appointments for in-person services. This dedicated line ensures you receive specialized assistance from technicians who are specifically trained in CNG systems and safety protocols.
 
-### Corporate Address
+### Corporate Address of Readyassist
 **Sundaravijayam Automobile Services Private Limited**
 839/2, 24th Main Rd, Behind Thirumala Theatre,
 1st Sector, HSR Layout,
@@ -943,7 +950,7 @@ Bengaluru, Karnataka - 560102
 ### Digital Presence
 - **Website**: www.readyassist.in
 - **Mobile App**: ReadyAssist SuperApp
-- **Social Media**: #alwaysMoveForward
+- **Social Media**: https://www.linkedin.com/company/readyassist/
 
 ### Service Booking
 - **24/7 Hotline**: 8197 852 852
@@ -960,8 +967,8 @@ Bengaluru, Karnataka - 560102
 ## Additional Information
 
 ### Service Areas
-- **Urban Coverage**: All major cities across India
-- **Rural Coverage**: Extended coverage to rural areas
+- **Urban Coverage**: All major cities across India. Our services are available in all metropolitan cities and major urban centers across India, including but not limited to Delhi NCR, Mumbai, Bangalore, Chennai, Kolkata, Hyderabad, Pune, Ahmedabad, and many more. In these urban areas, we maintain a higher density of service providers to ensure faster response times, typically within 30 minutes during peak hours. Our urban coverage includes not just the city centers but also the peripheral areas and suburbs, ensuring comprehensive protection for city dwellers.
+- **Rural Coverage**: Extended coverage to rural areas. While our fastest response times are typically in urban centers, we also extend our services to rural and semi-rural areas across India. Our rural coverage ensures that even customers in smaller towns and villages have access to reliable roadside assistance. Response times in rural areas may be longer due to the distances involved, but we strive to reach customers within 2-3 hours in most cases. This extended rural coverage is part of our commitment to providing nationwide accessibility to our services.
 - **Highway Support**: National highway coverage
 - **Remote Areas**: Limited support in remote locations
 
@@ -1156,33 +1163,33 @@ You can request our towing services by contacting us through our hotline +91-819
 ### Insurance Claims FAQs
 
 #### How do I raise a claim for vehicle assistance?
-You can raise a claim directly through our mobile app or website. Just go to the Claims section, enter your registered mobile number, and follow the guided steps. Alternatively, you can call our support at 8197-852-852.
+ReadyAssist offers multiple convenient channels for raising vehicle assistance claims to ensure you can get help exactly when and how you need it. The most efficient method is through our mobile app or website, where you can access the Claims section 24/7. Simply enter your registered mobile number, and you'll be guided through a step-by-step process that collects all necessary information and documentation. The digital platform allows you to upload photos or videos of vehicle damage, which are analyzed by our AI-powered inspection system for rapid assessment. Alternatively, you can call our dedicated support line at 8197-852-852, where our trained claims representatives are available around the clock to assist you. When calling, have your vehicle registration number, insurance details, and a description of the incident ready to expedite the process. For complex claims or situations requiring immediate assistance, our representatives can dispatch roadside support while processing your claim simultaneously. All claims are logged with a unique reference number that allows you to track progress and receive real-time updates on your claim status.
 
 #### What documents do I need to submit a claim?
-Typically, you'll need your vehicle registration number, a photo/video of the issue, and your contact details. Our team may request additional information based on the case type.
+To process your vehicle assistance claim efficiently, ReadyAssist requires several key documents that help us understand your situation and provide appropriate support. The essential documents include your vehicle registration number, which helps us verify ownership and access your service history if applicable. You'll also need to provide clear photos or videos of the issue, showing the damage or problem from multiple angles to enable accurate assessment by our AI-powered inspection system. Your contact details including phone number and email address are necessary for communication throughout the claims process. Depending on the nature of your claim, our team may request additional information such as your insurance policy details, a copy of your driving license, and any police reports if the incident involved third parties or legal authorities. For accident-related claims, we may need details about the location, time, and circumstances of the incident. Our streamlined digital process allows you to submit all required documents through our mobile app or website, with real-time guidance on what's needed for your specific case type.
 
 #### How long does it take to process a claim?
-Most claims are verified and processed within 24 to 48 hours. In some urgent roadside assistance cases, support is dispatched within minutes of verification.
+Most claims are verified and processed within 24 to 48 hours. In some urgent roadside assistance cases, support is dispatched within minutes of verification. Our streamlined verification process uses advanced AI technology to quickly assess claim validity and determine the appropriate level of support required. For straightforward claims with clear documentation, verification can be completed in as little as 24 hours. More complex cases involving significant damage or disputed claims may require the full 48-hour period for thorough review by our claims experts.
 
 #### Can I track the status of my claim?
-Yes, once your claim is submitted, you will receive an SMS/Email with a link to track the real-time status of your claim. You can also log in to your account to view updates.
+Yes, ReadyAssist provides comprehensive real-time claim tracking to keep you informed throughout the entire process. Once your claim is submitted, you will immediately receive an SMS and email confirmation with a unique claim reference number and a direct link to track your claim status. This link takes you to a dedicated tracking page where you can view detailed, real-time updates on your claim's progress, including verification status, assessment results, approval decisions, and service scheduling information. You can also log in to your ReadyAssist account through our website or mobile app to access your complete claim history and current status updates. Our tracking system provides notifications at every major milestone, such as when your claim is received, under review, approved, or when service has been completed. For complex claims requiring additional documentation or investigation, you'll receive specific guidance on what's needed and estimated timelines for resolution. This transparent tracking system ensures you're never left wondering about your claim's status and can plan accordingly.
 
 #### What should I do if my claim is rejected?
-If your claim is rejected, you'll receive the reason via SMS/Email. If you believe it's an error, you can request a re-evaluation or contact our support team for further assistance.
+If your claim is rejected, you'll receive a detailed explanation of the reason via SMS and email, including specific information about why the claim didn't meet approval criteria. Our rejection notifications are designed to be transparent and informative, helping you understand the decision and what steps you might take next. If you believe the rejection was made in error or if you have additional information that wasn't included in the original submission, you can request a re-evaluation by responding to the notification email or contacting our support team directly. The re-evaluation process involves a detailed review by senior claims specialists who will reassess your case with any new information or documentation you provide. You can also contact our support team at 8197-852-852 for further assistance, where our representatives can explain the rejection in more detail and guide you through the appeals process if applicable. In some cases, we may request additional documentation or clarification to better understand your situation. Our goal is to ensure that all legitimate claims receive fair consideration while maintaining the integrity of our claims process.
 
 #### Is roadside assistance included in my claim benefits?
-Yes, if your plan includes roadside assistance, it is covered. This includes battery jumpstart, towing, fuel delivery, flat tyre support, and more, depending on your subscription.
+Yes, if your insurance plan or ReadyAssist subscription includes roadside assistance coverage, these services are fully covered as part of your claim benefits with no additional charges. The roadside assistance benefits typically include comprehensive support such as battery jumpstart services for vehicles with dead batteries, professional towing services to transport your vehicle to the nearest authorized service center or your preferred destination, emergency fuel delivery when you run out of gas, and expert flat tyre repair or replacement services. Additional covered services may include key unlock assistance if you're locked out of your vehicle, minor mechanical repairs to get you back on the road, and emergency accommodation or taxi reimbursement in specific circumstances. The exact scope of roadside assistance benefits depends on your specific subscription plan or insurance policy terms, with premium plans offering more extensive coverage including higher towing distance limits and additional service types. All roadside assistance services are provided by our certified technicians using professional-grade equipment to ensure quality and safety.
 
 ### CNG Services FAQs
 
 #### How long does the CNG kit installation process take?
-The installation process takes between 4 to 6 hours for cars and 7 to 12 days for commercial vehicles.
+The installation process takes between 4 to 6 hours for cars and 7 to 12 days for commercial vehicles. For personal cars, the CNG conversion process is typically completed in a single day, requiring 4-6 hours for proper installation and testing. Commercial vehicles, due to their complexity and size, require a more extensive conversion process that typically spans 7-12 days. This extended timeframe accounts for the additional components, larger fuel systems, and more rigorous testing required for commercial applications. The process includes multiple quality checks and safety verifications to ensure compliance with commercial vehicle standards.
 
 #### Will installing a CNG kit void my vehicle's warranty?
-This depends on the vehicle manufacturer's policy. It's important to check with your vehicle's manufacturer or dealer.
+The impact of CNG kit installation on your vehicle's manufacturer warranty varies depending on the specific policies of your vehicle manufacturer and the type of CNG conversion performed. Many modern vehicle manufacturers have specific policies regarding aftermarket modifications, including CNG conversions. Some manufacturers may void certain aspects of the warranty related to the fuel system or engine components if a non-OEM CNG kit is installed, while others may have approved partnerships with CNG conversion providers. It's important to check with your vehicle's manufacturer or authorized dealer before proceeding with any CNG conversion to understand exactly how it might affect your warranty coverage. At CNGFirst, we work with government-approved conversion processes and quality components that meet or exceed safety standards, and we provide our own 1-year warranty on the CNG conversion work. Additionally, we maintain detailed records of all installations and can provide documentation that may be helpful if warranty issues arise. For vehicles where the manufacturer explicitly prohibits CNG conversions, we recommend discussing alternative options with your dealer or considering CNG conversion after the manufacturer's warranty period expires.
 
 #### Is CNG safe to use?
-Yes, CNG is considered safe when the installation is done by certified professionals and regular maintenance is performed. CNG has a high ignition temperature and is non-toxic.
+Yes, Compressed Natural Gas (CNG) is considered one of the safest alternative fuels when the installation is performed by certified professionals and regular maintenance protocols are followed. CNG has several inherent safety advantages including a high ignition temperature of approximately 540°C (compared to gasoline's 280°C), making it less likely to ignite accidentally. Additionally, CNG is non-toxic and lighter than air, which means in the event of a leak, it disperses quickly into the atmosphere rather than pooling on the ground like liquid fuels. CNG storage cylinders are manufactured to extremely high safety standards with multiple safety valves and pressure relief devices that prevent over-pressurization. At CNGFirst, all installations are performed by certified technicians who follow strict government safety protocols and use only approved components that meet or exceed national safety standards. Regular maintenance checks ensure that all system components remain in optimal condition, and our technicians provide detailed safety guidelines to help you maintain the system properly. The safety record of properly installed and maintained CNG systems is excellent, with statistically fewer incidents than conventional gasoline or diesel fuel systems.
 
 #### What is the difference between CNG and LPG?
 CNG (Compressed Natural Gas) and LPG (Liquefied Petroleum Gas) are both alternative fuels, but they have key differences:
@@ -1195,12 +1202,12 @@ CNG (Compressed Natural Gas) and LPG (Liquefied Petroleum Gas) are both alternat
 For vehicles, CNG is preferred due to better mileage and lower emissions, while LPG is ideal for household use like cooking and heating.
 
 #### Where can I refuel my vehicle with CNG?
-CNG refueling stations are available in many urban areas. You can find the nearest CNG station using our ReadyAssist Website or the ReadyAssist SuperApp.
+CNG refueling stations are increasingly available in urban and suburban areas across India, with the network expanding rapidly to support growing demand for cleaner fuel alternatives. Major metropolitan areas such as Delhi, Mumbai, Bangalore, Chennai, Hyderabad, and Kolkata have extensive CNG station networks with hundreds of refueling points. You can easily locate the nearest CNG station using our ReadyAssist Website or the ReadyAssist SuperApp, which provide real-time information on station locations, operating hours, and current availability. Our digital platforms feature interactive maps that show your current location and nearby CNG stations, along with directions and estimated travel times. The apps also provide information about station amenities, pricing, and customer reviews to help you choose the most convenient option. For commercial vehicle operators, we offer route planning tools that identify CNG stations along your regular travel routes to ensure uninterrupted operations. Additionally, many CNG stations operate 24/7, providing round-the-clock refueling convenience. We regularly update our station database to reflect new installations and temporary closures, ensuring you always have access to accurate information.
 
 ### Fitment Services FAQs
 
 #### What types of fitment services do you offer?
-We offer GPS & tracking systems, audio & entertainment systems, tire & wheel fitment, lighting systems, and dashcams fitment services.
+ReadyAssist offers a comprehensive range of professional vehicle fitment services designed to enhance your driving experience, improve safety, and customize your vehicle to your preferences. Our GPS & tracking systems installation services include professional fitting of advanced navigation devices and vehicle tracking solutions that help you monitor your vehicle's location and route history. Our audio & entertainment systems fitment covers everything from basic speaker upgrades to complete multimedia system installations with touchscreen displays, Bluetooth connectivity, and premium sound systems. For tire & wheel fitment, we provide professional installation and balancing services for high-quality tires and wheels that improve your vehicle's performance, handling, and aesthetics. Our lighting systems installation services include LED headlights, fog lights, interior lighting, and custom light bars that enhance visibility and style. Additionally, we offer specialized dashcams fitment services, ensuring proper installation of front and rear cameras for comprehensive road recording and security.
 
 #### How do I know if my vehicle is compatible with your fitment services?
 Our skilled technicians assess your vehicle to ensure compatibility with our fitment services, providing tailored solutions.
@@ -1209,31 +1216,31 @@ Our skilled technicians assess your vehicle to ensure compatibility with our fit
 Yes, our technicians are highly skilled and trained in the latest fitment techniques to ensure precise and reliable installations.
 
 #### How long does a typical fitment service take?
-The duration varies depending on the service, but most fitment installations are completed within a few hours.
+The duration of fitment services varies significantly depending on the complexity of the installation and the specific components being fitted. Simple installations such as basic speaker upgrades or LED bulb replacements can typically be completed within 1-2 hours. More complex installations like full multimedia system setups with navigation, multiple speakers, and integration with existing vehicle systems may require 3-4 hours to ensure proper functionality and aesthetics. Tire and wheel fitment services usually take 1-2 hours, including balancing and alignment checks. GPS and tracking system installations typically require 2-3 hours to ensure proper mounting, wiring, and configuration. Dashcam installations can be completed within 1-2 hours, depending on whether it's a single or dual-camera system and the complexity of the wiring required. Our technicians conduct a pre-installation assessment to provide you with a more accurate time estimate based on your specific requirements.
 
 #### Do you provide fitment services for both cars and bikes?
-Yes, we offer professional fitment services for both cars and motorcycles.
+Yes, ReadyAssist offers comprehensive professional fitment services for both cars and motorcycles, recognizing that vehicle owners across all categories seek to enhance their driving experience. For cars, we provide a full range of fitment services including advanced GPS navigation systems, premium audio and entertainment systems, custom lighting solutions, tire and wheel upgrades, and security systems like dashcams. Our car fitment services cater to various vehicle types from compact hatchbacks to luxury sedans and SUVs, with specialized solutions tailored to each make and model. For motorcycles, we offer fitment services that are specifically designed to accommodate the unique requirements and constraints of two-wheelers, including compact GPS trackers for theft protection, motorcycle-specific audio systems, LED lighting upgrades for enhanced visibility and style, and specialized mounting solutions for accessories. Our technicians are trained in the specific requirements of both vehicle categories, ensuring that all installations are performed safely and effectively while maintaining the integrity and warranty compliance of your vehicle.
 
 #### How much do fitment services cost?
-Costs vary depending on the type of service and components being installed. Contact us for a detailed quote.
+Fitment service costs vary significantly depending on the type of service, complexity of installation, and components being installed. Basic services such as LED bulb replacements or simple speaker installations may start from ₹500-₹1,500, while more comprehensive solutions can range from ₹5,000 to ₹50,000 or more for premium installations. GPS navigation systems with professional installation typically cost between ₹8,000-₹25,000 depending on features and brand. Audio system upgrades can range from ₹3,000 for basic speaker replacements to ₹30,000+ for premium multimedia systems with navigation. Tire and wheel fitment costs depend on the specific products chosen, with installation fees typically ranging from ₹500-₹2,000 per wheel. Dashcam installations start from ₹1,500 for basic single-camera systems and can go up to ₹8,000 for advanced dual-camera systems with parking mode functionality. Lighting system installations vary from ₹1,000 for basic LED bulb upgrades to ₹15,000 for comprehensive custom lighting packages. We provide transparent pricing with no hidden charges, and our team will provide a detailed, itemized quote after assessing your specific requirements to ensure you understand exactly what you're paying for.
 
 #### Can I schedule an appointment online?
-Yes, you can easily schedule an appointment for our fitment services through our website or mobile app.
+Yes, you can easily schedule an appointment for our fitment services through our website or mobile app, providing you with the convenience of booking at your preferred time without having to make phone calls during busy schedules. Our online booking system allows you to select from available time slots based on your convenience, typically offering appointments from 9:00 AM to 7:00 PM on weekdays and select weekend hours. When booking online, you can provide details about your vehicle, preferred services, and any specific requirements, which helps our technicians prepare the necessary components and tools in advance. The online booking process is straightforward and typically takes less than 5 minutes to complete. You'll receive instant confirmation of your appointment along with a reminder notification before your scheduled service time. Additionally, our mobile app offers enhanced features such as real-time technician tracking, service progress updates, and the ability to reschedule or modify your appointment if your plans change.
 
 #### Do you offer custom fitment solutions?
-Absolutely, we provide custom fitment solutions to meet specific needs and preferences for your vehicle.
+Absolutely, ReadyAssist specializes in providing custom fitment solutions tailored to meet your specific needs, preferences, and vehicle requirements. Our custom fitment services begin with a comprehensive consultation where our experts assess your vehicle and discuss your objectives, whether it's enhancing performance, improving safety, upgrading aesthetics, or adding specific functionality. For audio systems, we offer custom enclosures and speaker placements designed specifically for your vehicle's interior dimensions and acoustic properties. Our GPS and tracking solutions can be customized with specific mounting locations, wiring configurations, and feature sets based on your usage patterns. Lighting systems can be customized with color preferences, brightness levels, and activation sequences to match your style and needs. For commercial vehicles, we provide specialized fitment solutions that accommodate specific operational requirements such as fleet tracking, cargo monitoring, or specialized equipment integration. All custom solutions are designed and implemented by our certified technicians using high-quality components that maintain your vehicle's warranty and safety standards.
 
 #### What are the benefits of upgrading my vehicle with your fitment services?
-Upgrading your vehicle with our fitment services enhances performance, safety, security, and overall driving experience.
+Upgrading your vehicle with ReadyAssist's professional fitment services delivers comprehensive benefits that enhance multiple aspects of your driving experience. Performance improvements come through optimized audio systems that deliver crystal-clear sound quality, GPS navigation systems that provide real-time traffic updates and efficient route planning, and lighting upgrades that improve visibility and reduce driver fatigue. Safety enhancements include advanced dashcam systems that record critical footage for accident documentation and insurance claims, improved lighting systems that increase visibility during night driving and adverse weather conditions, and tracking systems that provide real-time location monitoring and theft protection. Security benefits extend beyond theft protection to include comprehensive monitoring capabilities that give you peace of mind whether your vehicle is parked or in motion. The overall driving experience is significantly enhanced through personalized audio systems that create an immersive entertainment environment, convenient navigation that reduces travel stress, and customized lighting that allows you to express your personal style while improving functionality. Additionally, professional fitment ensures that all installations are performed to the highest standards, maintaining your vehicle's warranty and preserving its resale value.
 
 #### How do I maintain the new components after installation?
-We provide detailed maintenance tips and support to help you keep your new components in optimal condition.
+We provide comprehensive maintenance guidance and ongoing support to help you keep your new components in optimal condition throughout their service life. After installation, our technicians provide you with detailed written instructions specific to your installed components, including cleaning procedures, inspection schedules, and troubleshooting tips. For audio systems, we recommend regular cleaning of speakers and displays using appropriate cleaning materials, checking connections periodically, and avoiding exposure to excessive moisture or temperature extremes. GPS and navigation systems benefit from regular software updates, which we can assist with either remotely or through in-person service visits. Dashcam systems require periodic cleaning of lenses, checking memory card capacity, and ensuring proper mounting security. Lighting systems should be inspected regularly for proper operation and cleaned to maintain optimal brightness. We also offer follow-up service appointments to check the condition of installed components, provide professional cleaning, and address any issues that may arise. Our customer support team is available to answer maintenance questions and provide guidance whenever needed, and we maintain detailed records of your installations to ensure we can provide appropriate support throughout the warranty period and beyond.
 
 #### Can you install components I purchased elsewhere?
-Yes, we can install components you have purchased through online or offline, provided they meet our quality standards.
+Yes, ReadyAssist can professionally install components you have purchased through online retailers, local electronics stores, or other sources, provided they meet our quality and compatibility standards. Our technicians are experienced in working with components from various manufacturers and can assess your purchased items to ensure they are suitable for installation in your specific vehicle. Before installation, we conduct a thorough compatibility check to verify that the components will function properly with your vehicle's electrical system and physical specifications. We also inspect purchased components for any damage that may have occurred during shipping or handling. While we can install components purchased elsewhere, we do recommend purchasing from reputable sources to ensure quality and warranty coverage. Please note that components purchased outside of ReadyAssist may have different warranty terms, and our installation warranty typically covers the installation workmanship rather than the components themselves. For optimal performance and comprehensive warranty coverage, we offer a range of high-quality components through our partnerships with leading manufacturers, ensuring complete compatibility and reliable performance.
 
 #### What are the payment options for fitment/installation services?
-We accept various payment methods including online, PayTM, UPI etc.
+ReadyAssist offers flexible payment options to accommodate your preferences and convenience. We accept all major payment methods including online payments through credit cards, debit cards, and net banking from all major Indian banks. Digital payment options include PayTM, Google Pay, PhonePe, and other UPI-based payment methods that allow for quick and secure transactions directly from your mobile device. For customers who prefer cash payments, we accept cash payments at the time of service completion, subject to applicable regulations and security protocols. We also offer easy EMI options for high-value installations, allowing you to spread the cost over several months with competitive interest rates. Additionally, we provide the option to combine fitment services with ReadyAssist subscription plans, which can offer cost savings and integrated billing. All transactions are processed through secure payment gateways that comply with industry-standard security protocols to ensure your financial information is protected. Payment is typically collected after service completion and quality verification, and you'll receive a detailed invoice with all charges clearly itemized for transparency.
 
 ### Dashcam Installation FAQs
 
@@ -1253,7 +1260,7 @@ The dashcam will be delivered within 2-3 hours if the order is placed before 5 P
 Your dashcam will be installed within 24 hours of placing the order, during your selected time slot that suits your convenience.
 
 #### How long does the installation process take?
-The installation usually takes 1-2 hours, depending on the type of dashcam and the installation method required.
+The installation usually takes 1-2 hours, depending on the type of dashcam and the installation method required. Basic single-camera dashcams typically require about 1 hour for installation, while more advanced systems with multiple cameras, parking mode functionality, or specialized mounting requirements may take up to 2 hours. Our technicians use professional-grade equipment and follow manufacturer specifications to ensure optimal performance and longevity of your dashcam system.
 
 #### Does the product and installation come with a warranty?
 Yes, the dashcam comes with a 1-year manufacturer's warranty, and the installation is covered with a 7-day warranty for your peace of mind.
@@ -1267,7 +1274,7 @@ Our dedicated support team is always available to assist you. For any queries re
 ### Multimedia System Installation FAQs
 
 #### How long does the installation process take?
-The installation process typically takes about 1 to 2 hours, depending on the complexity of the vehicle and the multimedia system model.
+The installation process typically takes about 1 to 2 hours, depending on the complexity of the vehicle and the multimedia system model. Simple installations such as basic audio system upgrades may be completed in as little as 1 hour, while more complex installations involving navigation systems, multiple speakers, or integration with existing vehicle systems may take closer to 2 hours. Our technicians conduct a pre-installation assessment to determine the exact requirements and provide a more accurate time estimate before beginning work.
 
 #### What types of multimedia systems do you install?
 We install a wide range of multimedia systems, including touchscreens, speakers, and audio systems for various vehicle makes and models.
@@ -1281,7 +1288,7 @@ Yes, we can install any multimedia system that you have purchased, whether it wa
 The duration of a detailed car inspection typically takes around 2 hours, depending on the service selected and the specific vehicle. Our expert technicians ensure a thorough examination within this timeframe.
 
 #### How far in advance should I book a car inspection?
-We recommend booking your inspection service at least 24 hours in advance. This allows us to coordinate the technician's visit according to your preferred schedule.
+We recommend booking your inspection service at least 24 hours in advance. This advance booking allows us to properly schedule our certified technicians and ensure availability at your preferred time slot. While we can sometimes accommodate same-day requests depending on technician availability, advance booking guarantees your preferred time and allows our team to prepare any specific tools or equipment that may be needed for your particular vehicle model. This allows us to coordinate the technician's visit according to your preferred schedule.
 
 #### Can I cancel my inspection booking? If so, is there a cancellation fee?
 Yes, you can cancel your inspection service and receive a full refund as long as the mechanic has not yet been assigned to your service.
@@ -1301,13 +1308,13 @@ A general bike service by ReadyAssist covers a 24-point vehicle check, including
 It is recommended to service your bike every 2,000 - 3,000 km or as per the manufacturer's guidelines to maintain performance and longevity.
 
 #### How long does a bike general service take?
-A standard bike service usually takes 45 minutes to 2 hours, depending on the condition of the bike.
+A standard bike service usually takes 45 minutes to 2 hours, depending on the condition of the bike. Well-maintained bikes with no major issues typically require about 45-60 minutes for a complete service, including engine oil replacement, brake inspection, chain lubrication, and basic tune-up. Bikes requiring more extensive work such as carburetor cleaning, brake adjustments, or tire replacement may take up to 2 hours. Our technicians provide regular updates during the service process to keep you informed of progress and any additional work that may be required.
 
 #### How can I book a doorstep bike service?
 You can book via the "Book A Service" button at the top of this 2-wheeler general service web page or call us at +91 8197-852-852 to book the same and enjoy the convenience of not having to visit a garage.
 
 #### What are the benefits of regular bike servicing?
-Regular servicing improves fuel efficiency, enhances safety, prevents breakdowns, and extends the bike's lifespan.
+Regular bike servicing offers numerous advantages that contribute to both the performance and longevity of your vehicle. Servicing improves fuel efficiency by ensuring that all engine components are functioning optimally, which reduces fuel consumption and saves you money in the long run. Enhanced safety is another critical benefit, as regular maintenance checks identify potential issues with brakes, tires, lights, and other safety-critical components before they become hazardous. Preventive maintenance through regular servicing helps prevent unexpected breakdowns that could leave you stranded, especially during commutes or long journeys. Additionally, consistent maintenance extends your bike's lifespan by keeping all components in good working condition, reducing wear and tear, and preventing minor issues from developing into major, costly repairs.
 
 ### Seat Cover Installation FAQs
 
@@ -1315,7 +1322,7 @@ Regular servicing improves fuel efficiency, enhances safety, prevents breakdowns
 Yes! We offer a diverse range of seat covers, including custom-fit options that are tailored to your vehicle's make and model, ensuring a precise fit and a refined finish.
 
 #### When will my order be delivered & how long does the installation take?
-Your seat covers will be delivered within 72 hours, with installation completed in the same timeframe. The installation process typically takes 2-3 hours, depending on your vehicle type, with slots available daily from 8 AM to 8 PM.
+Your seat covers will be delivered within 72 hours, with installation completed in the same timeframe. After confirming your order, our manufacturing team custom-produces your seat covers to exact specifications, which typically takes 48-72 hours. Once manufactured, the seat covers are delivered to your location and installed by our professional technicians. The entire process from order confirmation to installation completion is designed to be completed within 72 hours, ensuring you receive your custom-fitted seat covers in a timely manner without compromising on quality. The installation process typically takes 2-3 hours, depending on your vehicle type, with slots available daily from 8 AM to 8 PM.
 
 #### What's included in the product package & can I track my order?
 Your package includes one set of the selected superior-quality seat covers, headrests for added comfort, and a one-year free RSA Freedom Plan. Once your order is placed, you can easily track it through our app or website.
@@ -1334,12 +1341,12 @@ Our dedicated support team is always here to help. For any assistance, warranty 
 #### What are my contact options for roadside assistance?
 You can reach ReadyAssist for roadside assistance 24/7 in three ways:
 - Call our helpline: 8197-852-852
-- Email us: hello@readyassist.in (mention "Roadside Assistance" in the subject line)
+- Email us: hello@readyassist.in (mention "Roadside Assistance" in the subject line). When reaching out for roadside assistance-related inquiries, please ensure you include "Roadside Assistance" in the subject line of your email to help our support team prioritize and route your request appropriately. Our customer service representatives monitor this email address regularly and will respond to your queries within 24 hours. For urgent roadside assistance needs, we recommend calling our 24/7 hotline at 8197-852-852, but for non-urgent inquiries, email is an excellent option. When emailing about roadside assistance, please include details about your vehicle, the nature of the assistance required, your location, and any relevant subscription information to help us provide you with the most accurate and timely support.
 - Use the ReadyAssist mobile app for in-app assistance requests.
 
 #### Can I contact specific departments like Sales or Service?
 Yes! While the general contact information reaches our support team, you can also reach specific departments directly:
-- Sales inquiries: coverage@readyassist.in
+- Sales inquiries: coverage@readyassist.in. For all sales-related questions, partnership opportunities, dealership inquiries, and coverage expansion requests, please reach out to our dedicated sales team at coverage@readyassist.in. Our sales representatives are available during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and will respond to your inquiries within one business day. When contacting our sales team, please provide detailed information about your requirements, including the type of vehicles you operate, your service area, expected volume of service requests, and any specific needs you may have to help us provide you with the most accurate and tailored response.
 - Service inquiries (complaints or escalations): Use the online form on the "Contact Us" page or mention "Service Inquiry" in the subject line of your email to hello@readyassist.in
 
 #### What is your corporate office address?
@@ -1349,7 +1356,7 @@ Sundaravijayam Automobile Services Private Limited
 (Please note: This address is for informational purposes only and visits are not encouraged.)
 
 #### I have a question not listed here. How can I reach you?
-No problem! Feel free to email us at hello@readyassist.in and we'll be happy to help with any questions you may have.
+No problem! Feel free to email us at hello@readyassist.in and we'll be happy to help with any questions you may have. Our customer support team is dedicated to providing prompt and helpful responses to all inquiries. When emailing us, please provide as much detail as possible about your question or concern, including any relevant account information, subscription details, or service history. Our team monitors this email address during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and strives to respond to all inquiries within one business day. For urgent matters requiring immediate attention, we recommend calling our 24/7 customer support hotline at 8197-852-852.
 
 ---
 
@@ -1474,22 +1481,25 @@ We are an official Cars24 Business Partner , enabling seamless used car loan ser
 
 ## Need help or have questions?
 
-📞 Phone: 8197852852
-📧 Email: support@readyassist.in
+If you need assistance with any of our services, have questions about your subscription, or require support with a booking, our dedicated customer service team is available to help you. We understand that vehicle issues can arise at any time, which is why we provide 24/7 support to ensure you're never left stranded.
+
+📞 Phone: 8197852852 - For immediate roadside assistance or service-related queries, our support team is available around the clock. When you call this number, you'll be connected directly to our ReadyAssist support team who can help with emergency breakdowns, service bookings, subscription inquiries, and technical support.
+
+📧 Email: support@readyassist.in - For general inquiries, feedback, or non-urgent support requests, you can reach out to us via email. Our customer service representatives monitor this email address regularly and will respond to your queries within 24 hours. Please include details about your vehicle, service request, or subscription information to help us assist you more efficiently.
 
 ## Grievance Officer
 
-If you have any queries relating to the processing or usage of information by you in connection with this Policy, please email us at dpo@readyassist.in also in compliance with Information Technology Act, 2000 and the Digital Personal Data Protection Act, 2023 and the rules made thereunder, the name and contact details of the Grievance Officer and Data Protection Officer details are provided respectively below:
+If you have any queries relating to the processing or usage of information by you in connection with this Policy, please email us at dpo@readyassist.in. This email address is specifically designated for data protection and privacy-related inquiries in compliance with the Information Technology Act, 2000 and the Digital Personal Data Protection Act, 2023 and the rules made thereunder. Our Data Protection Officer monitors this email address during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and will respond to your privacy-related queries within three business days. When contacting us about data protection matters, please provide detailed information about your concern, including your account details if applicable, and a clear description of the issue. The name and contact details of the Grievance Officer and Data Protection Officer are provided respectively below for your reference.
 
 ### Grievance Officer
 Ms. Manju Shri Vaithyanathan
 Corporate Legal Officer
-legal@readyassist.in
+legal@readyassist.in. This is the official email address for our Legal Department. For all legal inquiries, contract-related questions, compliance matters, and official legal communications, please contact our legal team at legal@readyassist.in. Our legal representatives are available during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and will respond to your legal inquiries within two business days. When emailing our legal department, please provide a clear subject line indicating the nature of your legal inquiry and include all relevant documentation to help us address your concerns efficiently.
 
 ### Data Protection Officer
 Mr. Deepak Swain
 Technical Director
-dpo@readyassist.in
+dpo@readyassist.in. This is the official email address for our Data Protection Officer. For all data protection-related inquiries, privacy concerns, requests for personal data access or deletion, and compliance matters related to data protection laws, please contact our Data Protection Officer at dpo@readyassist.in. Our Data Protection Officer is available during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and will respond to your data protection inquiries within three business days. When emailing our Data Protection Officer, please provide a clear subject line indicating the nature of your data protection inquiry and include all relevant details to help us address your concerns efficiently.
 
 839/2, 24th Main Rd, Behind Thirumala Theatre, 1st Sector, HSR Layout, Bengaluru, Karnataka - 560102
 
@@ -1621,7 +1631,7 @@ You agree to indemnify, defend and hold harmless Us and our parent, subsidiaries
 
 ## CONTACT INFORMATION
 
-Questions about the Terms of Use should be sent to us at support@readyassist.in.
+Questions about the Terms of Use should be sent to us at support@readyassist.in. For any inquiries, clarifications, or concerns regarding our Terms of Use, please contact our customer support team at support@readyassist.in. Our support representatives are available during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and will respond to your Terms of Use-related questions within one business day. When emailing us about the Terms of Use, please provide specific details about the section or clause you have questions about, along with any relevant context that will help us provide you with the most accurate and helpful response.
 
 ## PERSONAL INFORMATION
 
@@ -1919,13 +1929,13 @@ When you buy your EV bike, it comes with a guarantee from the manufacturer that 
 There is always an anxiety in the customers mind regarding expenses that may be incurred post the expiration of OEM warranty period. This is where an EW subscription helps, by covering the risk associated with repairs/replacement of warranty parts post expiration of OEM warranty. In case of defect with warranty/major parts of the vehicle, ReadyAssist undertakes to repair/replace the part at no extra cost to the customer.
 
 22) What should I do if my Vehicle Develops a Fault or A part breaks down?
-Connect ReadyAssist, through contact no: 7676875758/ 8197852852 or mail at prime.support@readyassist.in
+Connect ReadyAssist, through contact no: 7676875758/ 8197852852 or mail at prime.support@readyassist.in. For all ReadyAssist Prime Support-related inquiries, you can reach our dedicated Prime Support team via phone at 7676875758 or 8197852852 during business hours (Monday to Saturday, 9:00 AM to 7:00 PM IST), or by email at prime.support@readyassist.in. Our Prime Support representatives monitor email inquiries during business hours and will respond to your questions within one business day. When emailing our Prime Support team, please include your vehicle details, subscription information, and a detailed description of your inquiry to help us provide you with the most efficient assistance.
 
 23) How long will my ReadyAssist ReadyAssist Prime Subscription plan Extended Warranty subscription last?
 ReadyAssist Prime Subscription plan Extended Warranty subscription plan is valid for 5 years from the date of purchase of new vehicle
 
 24) Can I transfer my ReadyAssist ReadyAssist Prime Subscription plan Extended Warranty to a new buyer?
-Yes, if you decide to sell your vehicle, you may transfer ReadyAssist Prime Subscription plan Extended Warranty subscription plan to a new buyer by reaching out to our Hotline number 7676875758 or you can write to prime.support@readyassist.in and we will get the subscription plan transferred
+Yes, if you decide to sell your vehicle, you may transfer ReadyAssist Prime Subscription plan Extended Warranty subscription plan to a new buyer by reaching out to our Hotline number 7676875758 during business hours (Monday to Saturday, 9:00 AM to 7:00 PM IST) or you can write to prime.support@readyassist.in and we will get the subscription plan transferred. Our Prime Support team handles all subscription transfer requests and will respond to email inquiries within one business day. When requesting a subscription transfer via email, please include both the current owner's and new owner's details, vehicle registration number, subscription plan information, and any supporting documentation to expedite the transfer process.
 
 25) When does my ReadyAssist Prime Extended Warranty Subscription plan period start?
 The ReadyAssist Prime Extended Warranty Subscription plan period starts from the date of purchase of vehicle, as per the vehicle purchase invoice. When can I claim my ReadyAssist Prime Extended Warranty Subscription plan?
@@ -2028,9 +2038,13 @@ No, you cannot avail EV Prime Support for your Petrol vehicle. EV Prime Support 
 
 ## Reach Us
 
-hello@readyassist.in
-8197 852 852 (ReadyAssist)
-70 2201 2201 (CNGFirst)
+We maintain multiple communication channels to ensure you can easily get in touch with us regardless of your needs or preferred method of contact. Our team is committed to providing prompt and helpful responses to all inquiries.
+
+📧 hello@readyassist.in - This is our primary email address for general inquiries, partnership opportunities, media requests, and corporate communications. Our team monitors this inbox during business hours (Monday to Friday, 9:00 AM to 6:00 PM IST) and will respond to your messages within one business day. For urgent matters, we recommend calling our support line instead. When emailing us, please include as much detail as possible about your inquiry, including your vehicle registration number, subscription details, or order number if applicable.
+
+📞 8197 852 852 (ReadyAssist) - This is our main 24/7 customer support hotline for all ReadyAssist services including roadside assistance, service bookings, subscription management, and general inquiries. Whether you're experiencing a vehicle breakdown, need to schedule a service, have questions about your subscription, or require technical support, our trained representatives are available around the clock to assist you. This number connects you directly to our ReadyAssist support team who can help with emergency breakdowns, service bookings, subscription inquiries, and technical support.
+
+📞 70 2201 2201 (CNGFirst) - This dedicated line is specifically for CNGFirst services, including CNG vehicle conversion inquiries, retrofitment appointments, CNG kit installations, and CNG-related technical support. Our CNG specialists are available during business hours (Monday to Saturday, 9:00 AM to 7:00 PM IST) to help you with all your compressed natural gas vehicle needs, including eligibility checks, document verification, approval processes, and installation scheduling.
 
 Company
 About Us
