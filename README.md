@@ -34,12 +34,12 @@
 ReadyAssist is India's leading technology-backed roadside assistance and vehicle lifecycle management company, specializing in 24/7 emergency assistance and EV repairs. The company aims to fulfill vehicle needs when it matters the most, ensuring reliability and quality without compromising on speed.
 
 ### Key Statistics
-- **Coverage**: 19,100+ pincodes across 700+ districts in India
-- **Service Network**: 11,000+ skilled mechanics and service providers
-- **Vehicles Served**: 30+ lakh (3 million+) happy customers
-- **EV Specialists**: Largest network of EV trained service providers
-- **Service Rating**: 4.9/5 customer rating
-- **Response Time**: Under 60 minutes for on-road support
+- **Coverage**: The company provides services across 19,100+ pincodes in India. Its reach spans over 700+ districts, ensuring nationwide accessibility.
+- **Service Network**: With a network of 11,000+ skilled mechanics and service providers, it delivers reliable vehicle support across urban and rural regions.
+- **Vehicles Served**: Over 30 lakh (3 million+) vehicles have been successfully serviced. This reflects a strong track record of customer satisfaction and trust.
+- **EV Specialists**: It boasts the largest network of EV-trained service providers in India. Specialized support ensures safe and efficient care for electric vehicles.
+- **Service Rating**: Customers have rated the service an impressive 4.9 out of 5. This high rating highlights consistent quality and responsiveness.
+- **Response Time**: On-road support is delivered in under 60 minutes on average. Rapid response ensures minimal downtime and maximum convenience.
 
 ---
 
