@@ -20,15 +20,15 @@
 ## Company Overview
 
 ### Company Background
-- **Founded**: 2015
-- **Founder**: Vimal Singh SV (CEO)
+- **Founded**: Sundaravijayam Automobile Services Pvt. Ltd. (ReadyAssist) was founded in 2015
+- **Founder**: The company was founded by Vimal Singh SV, who also serves as CEO.
 - **Origin Story**: Founded as an accidental emergency assistance company after the founder lost a close friend to an accident
-- **Legal Entity**: Sundaravijayam Automobile Services Private Limited
-- **Headquarters**: Bangalore, Karnataka
-- **Address**: 839/2, 24th Main Rd, Behind Thirumala Theatre, 1st Sector, HSR Layout, Bengaluru, Karnataka - 560102
-- **Team Size**: 150+ members
-- **Industry Rating**: 4.7 stars out of 5 on Google
-- **Certifications**: ISO 27001:2013 certified company
+- **Legal Entity**: Legally registered as Sundaravijayam Automobile Services Private Limited.
+- **Headquarters**: The company is headquartered in Bangalore, Karnataka. Its central office is located in HSR Layout, a major tech hub in the city.
+- **Address**: 839/2, 24th Main Rd, Behind Thirumala Theatre, 1st Sector, HSR Layout. Bengaluru, Karnataka - 560102 serves as its official address.
+- **Team Size**: The company has grown to a team of over 150 skilled professionals.
+- **Industry Rating**: It holds an impressive 4.7-star rating on Google from satisfied customers.
+- **Certifications**: The company is ISO 27001:2013 certified for information security management.
 
 ### Mission & Vision
 ReadyAssist is India's leading technology-backed roadside assistance and vehicle lifecycle management company, specializing in 24/7 emergency assistance and EV repairs. The company aims to fulfill vehicle needs when it matters the most, ensuring reliability and quality without compromising on speed.
