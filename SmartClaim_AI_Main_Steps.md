@@ -64,47 +64,7 @@ graph TD
     AM --> AN
     AN --> AO[Send to Insurer]
     
-    style A fill:#e1f5fe
-    style B fill:#e1f5fe
-    style C fill:#e1f5fe
-    style D fill:#f3e5f5
-    style E fill:#f3e5f5
-    style F fill:#f3e5f5
-    style G fill:#f3e5f5
-    style H fill:#e8f5e8
-    style I fill:#e8f5e8
-    style J fill:#e8f5e8
-    style K fill:#e8f5e8
-    style L fill:#e8f5e8
-    style M fill:#fff3e0
-    style N fill:#fff3e0
-    style O fill:#fce4ec
-    style P fill:#f1f8e9
-    style Q fill:#f1f8e9
-    style R fill:#f1f8e9
-    style S fill:#f1f8e9
-    style T fill:#f1f8e9
-    style U fill:#f1f8e9
-    style V fill:#e0f2f1
-    style W fill:#e0f2f1
-    style X fill:#e0f2f1
-    style Y fill:#e0f2f1
-    style Z fill:#e0f2f1
-    style AA fill:#e0f2f1
-    style AB fill:#fff8e1
-    style AC fill:#fff8e1
-    style AD fill:#fff8e1
-    style AE fill:#fff8e1
-    style AF fill:#e8f5e8
-    style AG fill:#e8f5e8
-    style AH fill:#e8f5e8
-    style AI fill:#e8f5e8
-    style AJ fill:#f3e5f5
-    style AK fill:#f3e5f5
-    style AL fill:#f3e5f5
-    style AM fill:#f3e5f5
-    style AN fill:#f3e5f5
-    style AO fill:#e0f7fa
+ 
 ```
 
 ## Main Processing Steps
@@ -187,4 +147,5 @@ graph TD
 - **Processing Time**: 20-30 seconds per claim (vs 7-10 days manual)
 - **Throughput**: 8,000-12,000 claims per day
 - **Accuracy**: 95%+ document extraction, 90%+ admissibility decisions
+
 - **Straight-Through Processing**: 60% of claims with zero human intervention
