@@ -1,6 +1,6 @@
 
 
-
+```mermaid
 %%{init: {'theme': 'dark', 'flowchart': {'layout': 'dagre', 'ranksep': 10, 'nodesep': 5, 'nodeMargin': 3, 'padding': 2, 'rankdir': 'TB'}}%%
 flowchart TD
     A["Start: Claim Submit"] --> B["S1: Doc Verify"]
@@ -35,7 +35,7 @@ flowchart TD
     'padding': 2,   %% Minimal padding
     'rankdir': 'TB' %% Top-to-bottom
 }}%%
-
+```
 
 
 
@@ -1416,3 +1416,4 @@ Implement monitoring for critical system health indicators:
 
 
 This comprehensive documentation provides a complete overview of the audio processing system, covering all aspects from architecture and components to usage examples and troubleshooting. The system is designed to handle a wide range of audio processing tasks with robust error handling and performance optimization features.
+
