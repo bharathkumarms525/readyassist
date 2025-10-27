@@ -24,10 +24,10 @@ flowchart TD
     C3:::sub
     classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
     classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
+```
 
 
-
-
+```mermaid
 %%{init: {
   'theme': 'dark',
   'flowchart': {
@@ -59,9 +59,9 @@ flowchart TD
     classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
     classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
     classDef part fill:#6a329f,stroke:#000,color:#fff,stroke-width:1px,font-size:9px;padding:2px
+```
 
-
-
+```mermaid
 %%{init: {
   'theme': 'dark',
   'flowchart': {
@@ -93,9 +93,9 @@ flowchart TD
     classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
     classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
     classDef part fill:#6a329f,stroke:#000,color:#fff,stroke-width:1px,font-size:9px;padding:2px
+```
 
-
-
+```mermaid
 %%{init: {
   'theme': 'dark',
   'flowchart': {
@@ -1528,5 +1528,6 @@ Implement monitoring for critical system health indicators:
 
 
 This comprehensive documentation provides a complete overview of the audio processing system, covering all aspects from architecture and components to usage examples and troubleshooting. The system is designed to handle a wide range of audio processing tasks with robust error handling and performance optimization features.
+
 
 
