@@ -24,7 +24,10 @@ flowchart TD
     C3:::sub
     classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
     classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
-5:21
+
+
+
+
 %%{init: {
   'theme': 'dark',
   'flowchart': {
@@ -35,6 +38,115 @@ flowchart TD
     'padding': 2,   %% Minimal padding
     'rankdir': 'TB' %% Top-to-bottom
 }}%%
+flowchart TD
+    Part2["Part 2: Admissibility & Repair"] --> D["S3: Admissibility"]
+    D --> D1["Parse Policy"]
+    D --> D2["Verify Evidence"]
+    D --> D3["Generate Report"]
+    D --> E["S4: Repair & Cost"]
+    E --> E1["Generate Orders"]
+    E --> E2["Review Bills"]
+    E --> E3["Send Scope"]
+    Part2:::part
+    D:::step
+    D1:::sub
+    D2:::sub
+    D3:::sub
+    E:::step
+    E1:::sub
+    E2:::sub
+    E3:::sub
+    classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
+    classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
+    classDef part fill:#6a329f,stroke:#000,color:#fff,stroke-width:1px,font-size:9px;padding:2px
+
+
+
+%%{init: {
+  'theme': 'dark',
+  'flowchart': {
+    'layout': 'dagre',
+    'ranksep': 10,  %% Tight vertical spacing
+    'nodesep': 5,   %% Minimal horizontal spacing
+    'nodeMargin': 3, %% Minimal margin
+    'padding': 2,   %% Minimal padding
+    'rankdir': 'TB' %% Top-to-bottom
+}}%%
+flowchart TD
+    Part3["Part 3: Follow-Up & Liability"] --> F["S5: Follow-Up"]
+    F --> F1["Remind Docs/Repairs"]
+    F --> F2["Escalate Delays"]
+    F --> F3["Audit Trail"]
+    F --> G["S6: Liability Calc"]
+    G --> G1["Compute Liability"]
+    G --> G2["Generate Worksheet"]
+    G --> G3["Monitor Timeline"]
+    Part3:::part
+    F:::step
+    F1:::sub
+    F2:::sub
+    F3:::sub
+    G:::step
+    G1:::sub
+    G2:::sub
+    G3:::sub
+    classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
+    classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
+    classDef part fill:#6a329f,stroke:#000,color:#fff,stroke-width:1px,font-size:9px;padding:2px
+
+
+
+%%{init: {
+  'theme': 'dark',
+  'flowchart': {
+    'layout': 'dagre',
+    'ranksep': 10,  %% Tight vertical spacing
+    'nodesep': 5,   %% Minimal horizontal spacing
+    'nodeMargin': 3, %% Minimal margin
+    'padding': 2,   %% Minimal padding
+    'rankdir': 'TB' %% Top-to-bottom
+}}%%
+flowchart TD
+    Part4["Part 4: Report, Query & Monitor"] --> H["S7: Final Report"]
+    H --> H1["Collate Details"]
+    H --> H2["Generate PDF"]
+    H --> H3["Blockchain Audit"]
+    H --> I["S8: Query Resolve"]
+    I --> I1["Auto-Respond"]
+    I --> I2["Flag Complex"]
+    I --> I3["Track Comms"]
+    I --> J["S9: Lifecycle Monitor"]
+    J --> J1["Track TAT, Issues"]
+    J --> J2["Generate KPIs"]
+    J --> J3["Financial Control"]
+    J --> K["S10: Improvement"]
+    K --> K1["Learn Corrections"]
+    K --> K2["Refine Accuracy"]
+    K --> K3["Update Models"]
+    K --> L["End: Settlement"]
+    Part4:::part
+    H:::step
+    H1:::sub
+    H2:::sub
+    H3:::sub
+    I:::step
+    I1:::sub
+    I2:::sub
+    I3:::sub
+    J:::step
+    J1:::sub
+    J2:::sub
+    J3:::sub
+    K:::step
+    K1:::sub
+    K2:::sub
+    K3:::sub
+    L:::step
+    L:::ending
+    classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
+    classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
+    classDef ending fill:#f4cccc,stroke:#000,color:#000,font-size:8px;padding:2px
+    classDef part fill:#6a329f,stroke:#000,color:#fff,stroke-width:1px,font-size:9px;padding:2px
 ```
 
 
@@ -1416,4 +1528,5 @@ Implement monitoring for critical system health indicators:
 
 
 This comprehensive documentation provides a complete overview of the audio processing system, covering all aspects from architecture and components to usage examples and troubleshooting. The system is designed to handle a wide range of audio processing tasks with robust error handling and performance optimization features.
+
 
