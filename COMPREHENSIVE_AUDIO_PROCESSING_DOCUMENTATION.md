@@ -1,3 +1,48 @@
+
+
+
+%%{init: {'theme': 'dark', 'flowchart': {'layout': 'dagre', 'ranksep': 10, 'nodesep': 5, 'nodeMargin': 3, 'padding': 2, 'rankdir': 'TB'}}%%
+flowchart TD
+    A["Start: Claim Submit"] --> B["S1: Doc Verify"]
+    B --> B1["Extract Policy, RC, DL"]
+    B --> B2["Verify Name, RC, DL"]
+    B --> B3["Detect Forgery"]
+    B --> B4["Remind Missing Docs"]
+    B --> C["S2: Damage Assess"]
+    C --> C1["Analyze Photos"]
+    C --> C2["Compare Estimates"]
+    C --> C3["Flag Issues"]
+    A:::step
+    B:::step
+    C:::step
+    B1:::sub
+    B2:::sub
+    B3:::sub
+    B4:::sub
+    C1:::sub
+    C2:::sub
+    C3:::sub
+    classDef step fill:#0b5394,stroke:#000,color:#fff,stroke-width:1px,font-size:8px;padding:2px
+    classDef sub fill:#b6d7a8,stroke:#444,stroke-width:0.5px,color:#000,font-size:6px;padding:1px
+5:21
+%%{init: {
+  'theme': 'dark',
+  'flowchart': {
+    'layout': 'dagre',
+    'ranksep': 10,  %% Tight vertical spacing
+    'nodesep': 5,   %% Minimal horizontal spacing
+    'nodeMargin': 3, %% Minimal margin
+    'padding': 2,   %% Minimal padding
+    'rankdir': 'TB' %% Top-to-bottom
+}}%%
+
+
+
+
+
+
+
+
 # Comprehensive Audio Processing System Documentation
 
 This document consolidates all the information from the various markdown files in the audio processing system, providing a complete overview of the architecture, components, usage, and troubleshooting of the system.
@@ -1368,5 +1413,6 @@ Implement monitoring for critical system health indicators:
 4. Better caching mechanisms for repeated requests
 
 ## Conclusion
+
 
 This comprehensive documentation provides a complete overview of the audio processing system, covering all aspects from architecture and components to usage examples and troubleshooting. The system is designed to handle a wide range of audio processing tasks with robust error handling and performance optimization features.
